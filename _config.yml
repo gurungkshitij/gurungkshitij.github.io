@@ -5,7 +5,8 @@ description:        "Welcome!"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/Lifetouch Portrait.png'
-background:         'assets/img/Mountains-hero.jpg'
+background:         'assets/img/Nepal-2123x1406.jpg
+'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://gurungkshitij.github.io/
