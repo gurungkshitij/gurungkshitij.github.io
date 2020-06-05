@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 tags: [about, Jekyll, theme, moon]
-date: 2206-06-04
+date: 2020-06-04
 comments: false
 ---
 <hr />
