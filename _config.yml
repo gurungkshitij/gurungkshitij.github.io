@@ -74,3 +74,34 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+## Layouts and Content
+
+Moon Theme use [Jekyll Compress](https://github.com/penibelst/jekyll-compress-html) to compress html output. But it can cause errors if you use "linenos" (line numbers). I suggest don't use line numbers for codes, because it won't look good with this theme, also i didn't give a proper style for them. If you insist to use line numbers, just remove `layout: compress` string from layouts. It will disable compressing.
+
+### Feature Image
+
+You can set feature image per post. Just add `feature: some link` to your post's front matter.
+
+```
+feature: /assets/img/some-image.png
+or
+feaure: http://example.com/some-image.png
+```    
+ This also will be used for twitter card:
+
+![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
+
+### Comments
+To show disqus comments for your post add `comments: true` to your post's front matter.
+
+---
+
+## Questions?
+
+Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
+
+---
+
+## License
+
+This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
