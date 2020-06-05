@@ -2,7 +2,7 @@
 title:              Kshitij Gurung
 bio:                '"If you torture the data long enough, it will confess" - Ronald Coase'
 description:        "Welcome!"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/Lifetouch Portrait.png'
 background:         'assets/img/placeholder-big.jpg'
