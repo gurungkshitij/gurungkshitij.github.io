@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> Welcome to my Website! </center>
+<center> My name is Kshitij. I am a motivated learned with a great passion for data science. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, and Statistics. I have work experience in analytics is various field like biostatistics, healthcare economics, and ecology. </center>
 
 ## Features
 * Minimal, you can focus on your content
