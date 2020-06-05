@@ -1,5 +1,5 @@
 # Site
-title:              <b> Kshitij Gurung </b>
+title:              <b> <font size=5> Kshitij Gurung  </font></b>
 bio:                '"If you torture the data long enough, it will confess" - Ronald Coase'
 description:        "Welcome!"
 reading_time:       true
@@ -42,7 +42,7 @@ email: kshitijgurung09@gmail.com
 facebook:           kshitij.gurung.56
 github-url:         gurungkshitij
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          Kshitij Gurung
 #xing:              username
 instagram:          kshitij.gurung
 #lastfm:            username
