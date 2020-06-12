@@ -3,7 +3,6 @@ layout: page
 title: About Me
 tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
-feature: https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/100655260_3032764096761306_8585428746104733696_o.jpg?_nc_cat=101&_nc_sid=b8aab4&_nc_ohc=eH-zid6iOtwAX_qHhym&_nc_ht=scontent-msp1-1.xx&oh=1b896fd4ecc1da6cff31d1d25f211900&oe=5F09831A
 comments: false
 ---
 <strong> <center> My name is Kshitij Gurung. Welcome to my Website!</center></strong> 
