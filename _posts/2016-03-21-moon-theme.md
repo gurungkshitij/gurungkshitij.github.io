@@ -4,24 +4,12 @@ title:  "Airbnb Rating Analysis"
 date:   2019-12-18
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+tag:[sample post, readability, test, image, feature]
 feature: https://www.cndenglish.com/sites/default/files/Article/airbnb.jpg
 comments: true
 ---
     
 
-
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-
-
----
 
    
       
