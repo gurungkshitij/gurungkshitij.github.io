@@ -8,10 +8,10 @@ feature: https://library.kissclipart.com/20180919/syq/kissclipart-pes-18-icon-cl
 comments: true
 ---
 
-### Introduction
-Have you ever wondered what sets apart high earning soccer players from other players? What attributes might significantly contribute the most in achieving such a high salary and market value?
+## Introduction
+Have you ever wondered what sets apart high earning soccer players from other players? What attributes might significantly contribute in achieving such a high salary and market value?
 
-In this exciting project, we attempted to analyze various attributes of players (age, speed, finishing, passing), implementing different machine learning algorithms on Fifa 18 data sets and aimed to achieve accurate predictions for salary, market value, and overall rating prediction. We also attempted to investigate how well the performances of a player in real-life predict their “Overall” Fifa rating. Naturally, if a player is considered good, their overall might be high, but the public’s conceptions of what makes a “good” player are very subjective, and Fifa is forced to meet the challenge of quantifying it. We wanted to see how well we could predict a future FIFA overall rating based on a set of real-life performance statistics.
+In this exciting project, we implemented different machine learning algorithms on Fifa 18 data sets in an attempt to analyze various attributes of players (age, speed, finishing, passing, etc), and aimed to achieve accurate predictions for salary, market value, and overall rating prediction. We also tried to investigate how well the performances of a player in real-life predict their “Overall” Fifa rating. Naturally, if a player is considered good, their overall might be high, but the public’s conceptions of what makes a “good” player are very subjective, and Fifa is forced to meet the challenge of quantifying it. We wanted to see how well we could predict a future FIFA overall rating based on a set of real-life performance statistics.
 
 The project is broken into two main sections. 
 
