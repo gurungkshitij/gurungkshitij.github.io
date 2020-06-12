@@ -4,7 +4,6 @@ title: "Salary, Market Value, and Overall Rating Prediction (Soccer)"
 date: 2020-06-12
 excerpt: "A ton of text to test readability with image feature."
 tags: [sample post, readability, test, image, feature]
-feature: https://www.dreamteamfc.com/c/wp-content/uploads/sites/4/2018/07/Juve_Ronaldo_1.1.png?strip=all&w=800&quality=100
 comments: true
 ---
 
