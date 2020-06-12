@@ -9,6 +9,28 @@ feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1
 comments: true
 ---
 
+## Introduction
+
+Have you ever booked or stayed at Airbnb?  If yes, you probably have considered the reveiws and ratings of properties before making your decision. Reviews and ratings of properties play a huge role in hospitality industry like Airbnb. Accurate and honest reviews of properties and services are valuable informations for clients and owners. A good place with high ratings attract clients, where as a bad rating warns or repels them. The owners of properties aim to deliver best service and comfort possible for thier client and expect decent reviews and ratings in return. 
+
+Keeping in mind the importance of Airbnb rating, I decided to make a prediction model that considers different components (price, location, reaction of property owner, etc) and quantifies their impact on the quality of review rating. Similarly, I also studied what determines the number of reviews the property recieves. These are particularly helpful for Airbnb property owners because, based on the results of the prediction models, they could evaluate thier strength, weakness, and improve on delivering better services, good reveiws, ratings, and reputations for their business.  
+
+In this project we plan to accomplish two main goals:
+ 1) Build a prediction (multilevel) model for predicting the quality of ratings
+ 2) Build a prediction (poisson distribution) model to quantify what determines the number of reveiws
+
+### How users can get started with the project?
+- Download all the files and put them in a folder
+- Change the dataset directories in Rmarkdown files before running the file.
+- AirBnB Zero Inflation Poisson Model.Rmd is the code for predicting number of reviews. 
+- Final Multilevel.Rmd is the code for predicting quality of ratings. 
+- The final report of our work in under [FinalReport-Airbnb.pdf](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf)
+
+
+
+
+
+
 Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use `figure` with the appropriate `class`. Each instance of `figure` is auto-numbered and displayed in the caption.
 
 ### Figures (for images or video)
@@ -16,7 +38,7 @@ Here are some examples of what a post with images might look like. If you want t
 #### One Up
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<a href="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"><img src="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
