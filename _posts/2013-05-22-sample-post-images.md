@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
+title: "Airbnb Rating Analysis"
+date: 2019-12-18
 excerpt: "Examples and code for displaying images in posts."
 project: true
 tags: [sample post, images, test]
+feature: https://www.cndenglish.com/sites/default/files/Article/airbnb.jpg
 comments: true
 ---
 
