@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "?"
-date:   2016-04-06
+title:  "Airbnb Rating Analysis"
+date:   2019-12-18
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
