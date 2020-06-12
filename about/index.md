@@ -13,6 +13,7 @@ comments: false
 http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg
 http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg
 <figure>
-	<a href="https://github.com/gurungkshitij/gurungkshitij.github.io/blob/master/assets/img/Mayo.jpeg"><img src="https://github.com/gurungkshitij/gurungkshitij.github.io/blob/master/assets/img/Mayo.jpeg"></a>
+<figure>
+	<a href="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"><img src="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"></a>
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
