@@ -5,7 +5,7 @@ date: 2019-12-18
 excerpt: "Examples and code for displaying images in posts."
 project: true
 tags: [sample post, images, test]
-feature: https://www.cndenglish.com/sites/default/files/Article/airbnb.jpg
+feature: https://imgs.6sqft.com/wp-content/uploads/2015/02/21004602/airbnb-log.jpg
 comments: true
 ---
 
