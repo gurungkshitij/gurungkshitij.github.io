@@ -29,10 +29,8 @@ In this project we plan to accomplish two main goals:
 <hr />
 <figure>
 	<a href="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"><img src="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"></a>
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
 
 #### Two Up
 
@@ -40,7 +38,7 @@ Apply the `half` class like so to display two images side by side that share the
 
 {% highlight html %}
 <figure class="half">
-    <a href="/images/image-filename-1-large.jpg"><img src="/images/image-filename-1.jpg"></a>
+    <a href="assets/img/Lifetouch Portrait.png"><img src="/imassets/img/Lifetouch Portrait.png"></a>
     <a href="/images/image-filename-2-large.jpg"><img src="/images/image-filename-2.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
