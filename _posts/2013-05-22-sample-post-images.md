@@ -5,7 +5,7 @@ date: 2019-12-18
 excerpt: "Examples and code for displaying images in posts."
 project: true
 tags: [sample post, images, test]
-feature: https://imgs.6sqft.com/wp-content/uploads/2015/02/21004602/airbnb-log.jpg
+feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
 comments: true
 ---
 
