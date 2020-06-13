@@ -3,7 +3,6 @@ layout: post
 title:  "Airbnb Rating Analysis"
 date:   2019-12-18
 excerpt: "Minimal, one column Jekyll theme for your blog."
-project: false
 tag:[sample post, readability, test, image, feature]
 feature: https://www.cndenglish.com/sites/default/files/Article/airbnb.jpg
 comments: true
