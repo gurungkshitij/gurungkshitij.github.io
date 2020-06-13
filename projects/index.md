@@ -9,7 +9,8 @@ comments: false
 
 ***Me singing a nepali song during Omkara (Annual cultural festial at St. Olaf College)*** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.facebook.com/kshitij.gurung.56/videos/2159293330775058/" frameborder="0"> </iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <figure class="third">
 	<img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/67358610_2375145822523140_6364679969716568064_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=LuL309xI0WAAX_v3sqO&_nc_ht=scontent-msp1-1.xx&oh=e3e1704a9a90c7751d852f81cbf0af8f&oe=5F08BFDE">
