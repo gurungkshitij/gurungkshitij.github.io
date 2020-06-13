@@ -8,7 +8,6 @@ tag:
 - mathjax
 - example
 - test
-project: false
 comments: true
 ---
 
