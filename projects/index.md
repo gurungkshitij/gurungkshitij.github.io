@@ -5,15 +5,15 @@ tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
 comments: false
 ---
-## I love to play soccer, workout, sing, cut hair, and cook.
+ <center> <b> I love to play soccer, workout, sing, cut hair, and cook. </b> </center>
 
-***Sang a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)*** 
+***Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)*** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Composed and performed a Nepali Dance during Annual International Night'19 at St. Olaf College*** 
+***Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College*** 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-***Another Composition and performace of a  Nepali Dacne during Diwali (South Asian cultural program '19 at St. Olaf College)*** 
+***Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)*** 
 <iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***2 years transformational video of my health and fitness journey***
