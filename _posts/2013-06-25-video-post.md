@@ -35,10 +35,12 @@ We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 ***Our goal is to try to answer the following questions:***
 
 1) What values of sig2 and decFac did you find to work best? How about for  4∗4 ?
+
 2) Using your preferred choice of sig2 and decFac, what is the average number steps required to find a magic square?
+
 3) How does the value of your function m change during the simulated annealing process? Make a plot that shows this clearly. How about for  4∗4  Grid?
 
-We then end up with a conclusion, limitation, and future work. 
+4) Conclusion, limitation, and future work. 
 
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=Sublqdi5XlU" frameborder="0"> </iframe>
 
