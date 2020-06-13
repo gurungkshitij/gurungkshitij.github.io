@@ -4,7 +4,7 @@ title:  "Trouble Project"
 date:   2020-04-16
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:[sample post, code, highlighting]
-project: true
+project: false
 comments: true
 ---
 
