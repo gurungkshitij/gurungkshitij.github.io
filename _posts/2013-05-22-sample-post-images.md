@@ -3,7 +3,6 @@ layout: post
 title: "Airbnb Rating Analysis"
 date: 2019-12-18
 excerpt: "Examples and code for displaying images in posts."
-project: true
 tags: [sample post, images, test]
 feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
 comments: true
