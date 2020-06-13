@@ -4,12 +4,11 @@ title:  "Trouble Project"
 date:   2020-04-16
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:[sample post, code, highlighting]
-projects: true
+project: true
 comments: true
 ---
 
-# **Trouble Project**
-## Kshitij Gurung, 4/16/2020
+# Trouble Project
 
 In the game Trouble the goal is to move a bunch of markers from a starting point all the way to
 the ending point. Ignoring some subtleties of the game, the basic move is very simple:
