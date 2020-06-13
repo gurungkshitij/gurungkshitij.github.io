@@ -7,14 +7,16 @@ comments: false
 ---
 ## I love to play soccer, workout, sing, cut hair, and cook.
 
-***Sang a nepali song during Omkara (Annual cultural festial'18 at St. Olaf College)*** 
+***Sang a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)*** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***(Composed and performed a Nepali Dacne during Annual International Night'19 at St. Olaf College)*** 
+***Composed and performed a Nepali Dance during Annual International Night'19 at St. Olaf College*** 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-***(Composed and performed a Nepali Dacne during Diwali (South Asian cultural program '19 at St. Olaf College)*** 
+***Another Composition and performace of a  Nepali Dacne during Diwali (South Asian cultural program '19 at St. Olaf College)*** 
 <iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+***2 years transformational video of my health and fitness journey***
 
 <figure class="third">
 	<img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/67358610_2375145822523140_6364679969716568064_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=LuL309xI0WAAX_v3sqO&_nc_ht=scontent-msp1-1.xx&oh=e3e1704a9a90c7751d852f81cbf0af8f&oe=5F08BFDE">
