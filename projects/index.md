@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Posts
+title: Hobbies and Fun involvements
 tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
 comments: false
