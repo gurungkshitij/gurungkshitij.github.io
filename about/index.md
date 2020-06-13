@@ -11,5 +11,5 @@ comments: false
 
 <center> <i> <b>Technical Skills: Advance in R, Intermediate in Python, SQL, C++, Excel</b> </i></center>
 
-<center> Besides my professional work, I love speding time playing soccer, working outs (powerlifting), cooking, hair cutting, and Singnig. [Click here](https://gurungkshitij.github.io/projects/) if you want to know more about my hobbies and fun activities.</center>
+<center> Besides my professional work, I love speding time playing soccer, working outs (powerlifting), cooking, hair cutting, and Singnig. </center> [Click here](https://gurungkshitij.github.io/projects/) if you want to know more about my hobbies and fun activities.
  
