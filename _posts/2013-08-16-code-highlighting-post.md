@@ -4,7 +4,6 @@ title: Percolation Project
 date: 2020-05-01
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
-project: false
 feature: https://media.giphy.com/media/sH7W0vGxwaCbK/giphy_s.gif
 comments: true
 ---
