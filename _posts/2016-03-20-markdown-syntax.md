@@ -10,7 +10,6 @@ tag:
 - test
 - jekyll
 feature: https://coderiff.com/wp/wp-content/uploads/2015/08/1.jpg
-project: false
 comments: true
 ---
 
