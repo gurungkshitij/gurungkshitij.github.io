@@ -7,12 +7,16 @@ comments: false
 ---
 <strong> <center> My name is Kshitij Gurung. Welcome to my Website!</center></strong> 
 <hr />
-I am a motivated learned with a great passion for data science. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, and Statistics. I have strong quantative research experiences in various fields (Biostatistics, Healthcare Economics, and Ecology). Currenlty, I am actively looking for jobs in healthcare, economic consulting, business, and innovative technology that demand heavy use of data analytics, statistical analysis, predictive modeling skills, and econometrics to solve challenging real-world problems. I am skilled in Data Analysis, Data Visualisation, Machine Learning Algorithms, and Statistics.
+<center> I am a motivated learned with a great passion for data science. </center>
+I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, and Statistics. I have strong quantative research experiences in various fields (Biostatistics, Healthcare Economics, and Ecology). Currenlty, I am actively looking for jobs in healthcare, economic consulting, business, and innovative technology that demand heavy use of data analytics, statistical analysis, predictive modeling skills, and econometrics to solve challenging real-world problems. I am skilled in Data Analysis, Data Visualisation, Machine Learning Algorithms, and Statistics.
+
+Technical Skills: Advance in R, Intermediate in Python, SQL, C++, Excel
+
+<hr />
 
  Besides my professional work, I love speding time playing soccer, working outs (powerlifting), cooking, hair cutting, and Singnig. 
  
 
-Technical Skills: Advance in R, Intermediate in Python, SQL, C++, Excel
 
 <figure class="third">
 	<img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/67358610_2375145822523140_6364679969716568064_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=LuL309xI0WAAX_v3sqO&_nc_ht=scontent-msp1-1.xx&oh=e3e1704a9a90c7751d852f81cbf0af8f&oe=5F08BFDE">
