@@ -5,11 +5,10 @@ date: 2020-05-01
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
 tags: [sample post, code, highlighting]
 feature: https://media.giphy.com/media/sH7W0vGxwaCbK/giphy_s.gif
-projects: true
+project: true
 comments: true
 ---
 # Percolation Project
-### Kshitij Gurung, May 01, 2020
 
 We have been examining the 2-D percolation problem in which we have a n × n grid of squares.
 Each square is either “open” with probability p or “closed” with probability 1 − p. We say that
