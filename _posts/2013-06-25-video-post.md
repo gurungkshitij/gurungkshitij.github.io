@@ -41,7 +41,7 @@ We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 
 4) Conclusion, limitation, and future work. 
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=Sublqdi5XlU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
