@@ -21,7 +21,7 @@ Consider the following two-dimensional random walk that is not confined to integ
 determine a step of the walk, first choose an angle θ (uniformly) from the interval [0, 2π). The step
 of the walk will then be (cos(θ),sin(θ)).
 
-***We will investigate following questions:***
+***I will investigate the following questions:***
 
 1. What is the average squared distance from the origin after n steps?
 
@@ -35,23 +35,6 @@ around the origin?
 keep the y-coordinate of the walk between −5 and 5. (You have freedom to decide how you
 would like to do this!) Then reconsider questions 1 and 2 for your modified random walk.
 
-## HTML Elements
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### Body text
 
 Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
@@ -109,12 +92,12 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 
 Make any link standout more when applying the `.btn` class.
 
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
+{% https://gurungkshitij.github.io//projects/%}
+<a href="#" class="btn btn-success">Hobbies Button</a>
 {% endhighlight %}
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
+<div markdown="0"><a href="#" class="btn btn-success">Hobbies Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
