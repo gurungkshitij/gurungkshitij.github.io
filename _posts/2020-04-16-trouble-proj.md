@@ -2,12 +2,13 @@
 layout: post
 title: Trouble Project
 date: 2020-04-16
-excerpt: "MathJax Example for Moon Jekyll Theme."
+excerpt: "A simple dice game analysis: python"
 tag:
 - markdown 
 - mathjax
 - example
 - test
+feature: https://i.pinimg.com/originals/ab/64/4a/ab644ab5ef2ef2e44e11484ba49a3e46.jpg
 comments: true
 ---
 
