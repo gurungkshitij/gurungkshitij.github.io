@@ -34,3 +34,5 @@ around the origin?
 3. How does the walk behave if it is constrained to the region −5 ≤ y ≤ 5? Modify your code to
 keep the y-coordinate of the walk between −5 and 5. (You have freedom to decide how you
 would like to do this!) Then reconsider questions 1 and 2 for your modified random walk.
+
+[Click Here](https://github.com/gurungkshitij/Randomwalk/blob/master/kshitij_gurung_random_walk_project_.py) to go to the source code.
