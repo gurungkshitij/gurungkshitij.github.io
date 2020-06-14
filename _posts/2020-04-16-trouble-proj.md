@@ -2,7 +2,7 @@
 layout: post
 title: Trouble Project
 date: 2020-04-16
-excerpt: "A simple dice game analysis: python"
+excerpt: "A simple dice game analysis: Python"
 tag:
 - markdown 
 - mathjax
