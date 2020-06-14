@@ -2,7 +2,7 @@
 layout: post
 title: Percolation Project
 date: 2020-05-01
-excerpt: "Will the water pass thorugh filter? Let's find out: Python."
+excerpt: "Will the water pass thorugh the filters? Let's find out: Python"
 tags: [sample post, code, highlighting]
 feature: https://media.giphy.com/media/sH7W0vGxwaCbK/giphy_s.gif
 comments: true
