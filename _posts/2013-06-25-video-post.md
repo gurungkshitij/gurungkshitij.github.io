@@ -19,7 +19,7 @@ We are going to find the magic square by using stimulated annealing technique an
 
 Use simulated annealing to find magic squares for at least n = 3 and n = 4. Here are some tips for setting up the problem:
 
-• States: The states should be all possible arrangements of the numbers  **1,2,...,𝑛^2**  in the  𝑛×𝑛  grid.
+• States: The states should be all possible arrangements of the numbers  **1,2,...,𝑛<sup>2</sup>**  in the  𝑛×𝑛  grid.
 
 • Starting State: Randomly assign the numbers  **1,2,...,n<sup>2</sup>**  to the grid.
 
