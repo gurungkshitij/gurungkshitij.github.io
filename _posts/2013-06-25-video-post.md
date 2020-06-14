@@ -2,7 +2,7 @@
 layout: post
 title:  "Magic Square Project"
 date:   2020-05-10
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "A project to find the magic square: python."
 tags: [sample post, readability, test, image, feature]
 feature: https://s3.amazonaws.com/images.penguinmagic.com/images/products/original/16578a-5cacf03e85a00.png
 comments: true
