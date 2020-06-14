@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
 comments: false
 ---
- <center> <strong><font size="+3">This I love to play soccer, workout, sing, cut hair, and cook. </font> </strong> </center>
+ <center> <strong><font size="+1"> Find me playing soccer, working out, singing, cutting hair, or cooking Nepalese special chicken tarkari. </font> </strong> </center>
 
 ***Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)*** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
