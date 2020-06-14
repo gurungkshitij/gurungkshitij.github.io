@@ -14,9 +14,10 @@ Have you ever booked or stayed at Airbnb?  If yes, you probably have considered 
 
 Keeping in mind the importance of Airbnb rating, I decided to make a prediction model that considers different components (price, location, reaction of property owner, etc) and quantifies their impact on the quality of review rating. Similarly, I also studied what determines the number of reviews the property recieves. These are particularly helpful for Airbnb property owners because, based on the results of the prediction models, they could evaluate thier strength, weakness, and improve on delivering better services, good reveiws, ratings, and reputations for their business.  
 
-In this project we plan to accomplish two main goals:
+<b> In this project we plan to accomplish two main goals: </b>
 
  1) Build a prediction (multilevel) model for predicting the quality of ratings
+ 
  2) Build a prediction (poisson distribution) model to quantify what determines the number of reveiws
 
 ### How users can get started with the project?
