@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salary, Market Value, and Overall Rating Prediction (Football: Soccer)"
+title: "Market Value, and Overall Rating Prediction (Football: Soccer)!"
 date: 2020-06-12
 excerpt: "An exciting project for Football (soccer) fans."
 tags: [sample post, readability, test, image, feature]
