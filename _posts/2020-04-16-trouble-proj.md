@@ -8,7 +8,7 @@ tag:
 - mathjax
 - example
 - test
-feature: https://i.pinimg.com/originals/ab/64/4a/ab644ab5ef2ef2e44e11484ba49a3e46.jpg
+feature: https://image.winudf.com/v2/image/Y29tLk1hZ2ljSWRlYS5EaWNlMjg1X3NjcmVlbnNob3RzXzBfYTBjNzIxZmI/screen-0.jpg?fakeurl=1&type=.jpg
 comments: true
 ---
 
