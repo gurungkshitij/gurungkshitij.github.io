@@ -1,19 +1,18 @@
 
 ---
 layout: post
-title: Percolation Project
-date: 2020-05-01
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
+title:  "Moon Jekyll Theme"
+date:   2016-04-06
+excerpt: "Minimal, one column Jekyll theme for your blog."
+project: true
 tag:
 - jekyll 
 - moon
 - blog
 - about
 - theme
-feature: https://media.giphy.com/media/sH7W0vGxwaCbK/giphy_s.gif
 comments: true
 ---
-
    
       
 
