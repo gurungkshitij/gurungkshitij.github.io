@@ -31,7 +31,7 @@ Use simulated annealing to find magic squares for at least n = 3 and n = 4. Here
 
 We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 
-***Our goal is to try to answer the following questions:***
+***Our goal is to investigate the following questions:***
 
 1) What values of sig2 and decFac did you find to work best? How about for  4∗4 ?
 
