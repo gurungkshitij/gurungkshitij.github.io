@@ -35,4 +35,4 @@ around the origin?
 keep the y-coordinate of the walk between −5 and 5. (You have freedom to decide how you
 would like to do this!) Then reconsider questions 1 and 2 for your modified random walk.
 
-[Click Here](https://github.com/gurungkshitij/Randomwalk/blob/master/kshitij_gurung_random_walk_project_.py) to go to the source code.
+<div markdown="0"><a href="https://github.com/gurungkshitij/Randomwalk/blob/master/kshitij_gurung_random_walk_project_.py" class="btn btn-success">Source Code</a></div>
