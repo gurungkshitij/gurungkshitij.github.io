@@ -41,14 +41,4 @@ We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 
 4) Conclusion, limitation, and future work. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
-
-Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
-
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=Sublqdi5XlU" frameborder="0"> </iframe>
-
-{% highlight html %}
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
-{% endhighlight %}
