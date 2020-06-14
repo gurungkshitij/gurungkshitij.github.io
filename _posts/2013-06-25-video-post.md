@@ -41,8 +41,6 @@ We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 
 4) Conclusion, limitation, and future work. 
 
-<div markdown="0"><a href="https://github.com/gurungkshitij/MagicSquare/blob/master/magic_square_project_kshitij.py" class="btn btn-success">Source Code Button</a></div>
-
-[Click Here](https://github.com/gurungkshitij/MagicSquare/blob/master/magic_square_project_kshitij.py) to see the source code. 
+<div markdown="0"><a href="https://github.com/gurungkshitij/MagicSquare/blob/master/magic_square_project_kshitij.py" class="btn btn-success">Source Code</a></div>
 
 
