@@ -43,13 +43,13 @@ data cleaning code
 - Everythign should run smoothly. 
 - The final version of the published shinny app work in this [link](https://gurung.shinyapps.io/Climate_Shiny/)
 
-<hr>
+
 
 <form class="form-inline">
 <div markdown="0"><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-success"> Final product</a></div>
 <div markdown="0"><a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a></div>
 </form>
-
+<hr>
 <figure class="half">
     <a href='/assets/img/ch4.jpg'><img src='/assets/img/ch4.jpg'></a>
     <a href='/assets/img/co2_country.jpg'><img src='/assets/img/co2_country.jpg'></a>
