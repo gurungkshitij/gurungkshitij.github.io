@@ -45,16 +45,16 @@ data cleaning code
 
 
 <div class="btn-group">
-<div><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-success"> Final product</a></div>
-<div markdown="0"><a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a></div>
+<a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-success"> Final product</a>
+<a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a>
 </div>
 
 <div class="container">
   <h2>Button Group</h2>
   <p>The .btn-group class creates a button group:</p>
   <div class="btn-group">
-    <button><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-primary">Final product</button>
-    <a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info">Source Codes</button>
+    <button><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-primary">Final product
+    <a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info">Source Codes
   </div>
 </div>
 
