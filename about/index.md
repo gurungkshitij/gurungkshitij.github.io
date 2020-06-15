@@ -3,6 +3,7 @@ layout: page
 title: About Me
 tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
+logo: '/assets/img/kg.jpg'
 comments: false
 ---
 <hr />
