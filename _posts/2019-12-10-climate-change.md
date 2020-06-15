@@ -53,8 +53,8 @@ data cleaning code
   <h2>Button Group</h2>
   <p>The .btn-group class creates a button group:</p>
   <div class="btn-group">
-    <button type="button" a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-primary">Final product</button>
-    <button type="button" a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info">Source Codes</button>
+    <a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-primary">Final product</button>
+    <a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info">Source Codes</button>
   </div>
 </div>
 
