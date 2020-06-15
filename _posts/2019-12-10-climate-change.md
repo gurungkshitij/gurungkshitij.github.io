@@ -48,4 +48,10 @@ data cleaning code
 <div markdown="0"><a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a></div>
 </form>
 
+<figure class="third">
+	<img src='assets/img/ch4.jpg'>
+	<img src='assets/img/co2_country.jpg'>
+    <figcaption>Top cotributors of CO<sub>2</sub> and CH<sub>4</sub></figcaption>
+</figure>
+
 
