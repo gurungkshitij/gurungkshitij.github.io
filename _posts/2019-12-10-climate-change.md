@@ -49,15 +49,6 @@ data cleaning code
 <a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a>
 </div>
 
-<div class="container">
-  <h2>Button Group</h2>
-  <p>The .btn-group class creates a button group:</p>
-  <div class="btn-group">
-    <button><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-primary">Final product
-        <a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info">Source Codes </a>
-  </div>
-</div>
-
 <hr>
 <figure class="half">
     <a href='/assets/img/ch4.jpg'><img src='/assets/img/ch4.jpg'></a>
