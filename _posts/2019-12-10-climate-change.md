@@ -53,5 +53,11 @@ data cleaning code
 	<a href='/assets/img/co2_country.jpg'><img src='/assets/img/co2_country.jpg'>
     <figcaption>Top cotributors of CO<sub>2</sub> and CH<sub>4</sub></figcaption>
 </figure>
+        
+<figure class="half">
+	<a href='/assets/img/co2.jpg'><img src='/assets/img/co2.jpg'>
+	<a href='/assets/img/sealevel.jpg'><img src='/assets/img/sealevel.jpg'>
+    <figcaption>Association between CO<sub>2</sub> rise and Sealevel rise</figcaption>
+</figure>
 
 
