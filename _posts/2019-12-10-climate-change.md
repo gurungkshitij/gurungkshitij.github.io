@@ -45,10 +45,12 @@ data cleaning code
 
 
 
-<form class="form-inline">
+<form class="container">
 <div markdown="0"><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-success"> Final product</a></div>
 <div markdown="0"><a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a></div>
 </form>
+
+
 <hr>
 <figure class="half">
     <a href='/assets/img/ch4.jpg'><img src='/assets/img/ch4.jpg'></a>
