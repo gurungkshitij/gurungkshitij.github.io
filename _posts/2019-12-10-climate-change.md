@@ -44,10 +44,10 @@ data cleaning code
 - The final version of the published shinny app work in this [link](https://gurung.shinyapps.io/Climate_Shiny/)
 
 
-
+<div class="btn-group">
 <div markdown="0"><a href="https://gurung.shinyapps.io/Climate_Shiny/" class="btn btn-success"> Final product</a></div>
 <div markdown="0"><a href="https://github.com/gurungkshitij/climate_change" class="btn btn-info"> Source Codes</a></div>
-
+</div>
 
 <div class="container">
   <h2>Button Group</h2>
