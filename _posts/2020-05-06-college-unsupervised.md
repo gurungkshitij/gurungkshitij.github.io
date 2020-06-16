@@ -16,6 +16,7 @@ In this project, I attempt to classify, compare, and study 135 different private
 - Implement PCA to identify qualitative features of the U.S. colleges 
 - Determine the candidate for optimal number of clusters using elbow plot
 - Use k-means clustering on top of PCA to classify, compared, and observe any patters among colleges
+
 ### How users can get started with the project?
 - [CollegeScoreboard.Rmd](https://github.com/gurungkshitij/collegeboard_pca_cluster/blob/master/CollegeScoreboard.Rmd) is the main file
 - [Download](https://github.com/gurungkshitij/collegeboard_pca_cluster.git) all the files and change the directory of data
