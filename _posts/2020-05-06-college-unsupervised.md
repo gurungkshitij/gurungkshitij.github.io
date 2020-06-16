@@ -21,9 +21,9 @@ In this project, I attempt to classify, compare, and study 135 different private
 - [CollegeScoreboard.Rmd](https://github.com/gurungkshitij/collegeboard_pca_cluster/blob/master/CollegeScoreboard.Rmd) is the main file
 - [Download](https://github.com/gurungkshitij/collegeboard_pca_cluster.git) all the files and change the directory of data
 as you read in Colleges2015.csv. You are good to go.
-- The final report is [CollegeScoreboard.pdf](https://github.com/gurungkshitij/collegeboard_pca_cluster/blob/master/CollegeScoreboard.md)
+- The final report is [CollegeScoreboard.pdf](https://github.com/gurungkshitij/collegeboard_pca_cluster/blob/master/CollegeScoreboard.pdf)
 
-<a href="https://github.com/gurungkshitij/collegeboard_pca_cluster/blob/master/CollegeScoreboard.pdf" class="btn btn-success"> Source code</a>
+<a href="https://github.com/gurungkshitij/collegeboard_pca_cluster.git" class="btn btn-success"> Source code</a>
 
 <hr>
 <figure class="half">
