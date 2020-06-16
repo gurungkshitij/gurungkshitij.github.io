@@ -10,9 +10,11 @@ comments: false
 <strong> <center> I am Kshitij Gurung and welcome to my Website!</center></strong> 
 I am a motivated learner with a great passion for data science and analytics. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, Statistics and Data Science. I have quantative research experiences in various fields (Biostatistics, Healthcare Economics, Econometrics, and Ecology). I am skilled in Data Analytics and, Data Visualisation, Machine Learning Algorithms, Predictive Modeling, and Statistical Analysis. 
 
+<center><b>Interest: Healthcare Analytics, Sports/Exercise Analytics, Machine Learning, Consulting </b></center>
 Besides my professional work, I love speding time playing soccer, working outs (powerlifting), cooking, hair cutting, and Singnig. 
 
-<B>Interest: Healthcare Analytics, Sports/Exercise Analytics, Machine Learning, Consulting
 
-[Click here](https://gurungkshitij.github.io/projects/) if you want to know more about my hobbies and fun activities. 
- 
+<div class="btn-group">
+<a href="https://gurungkshitij.github.io//posts/" class="btn btn-success">Projects</a>
+<a href="https://gurungkshitij.github.io/projects/" class="btn btn-info"> Hobbies</a>
+</div>
