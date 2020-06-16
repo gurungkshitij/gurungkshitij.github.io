@@ -2,7 +2,7 @@
 layout: post
 title: "Climate Change Visualization"
 date: 2019-12-18
-excerpt: " A data science visualizing project portraying a compeling story on Climate Change: R"
+excerpt: " A data science visualizing project portraying a compeling story on Climate Change: <b>R</b>"
 tags: [sample post, images, test]
 feature: https://scx2.b-cdn.net/gfx/news/2018/9-climatechange.jpg
 comments: true
