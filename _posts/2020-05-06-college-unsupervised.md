@@ -27,6 +27,6 @@ as you read in Colleges2015.csv. You are good to go.
 <figure class="half">
     <a href='/assets/img/pca.jpg'><img src='/assets/img/pca.jpg'></a>
     <a href='/assets/img/cluster_col.jpg'><img src='/assets/img/cluster_col.jpg'></a>
-    <figcaption>Top cotributors of CO<sub>2</sub> and CH<sub>4</sub> </figcaption>
+    <figcaption> fig: Clustering results</figcaption>
 </figure>
         
