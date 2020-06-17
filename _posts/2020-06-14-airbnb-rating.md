@@ -2,7 +2,7 @@
 layout: post
 title: "Airbnb Rating Analysis"
 date: 2019-12-18
-excerpt: "Reviews and Rating analysis on Airbnb using advanced statistical modeling: R"
+excerpt: "Reviews and Rating analysis on Airbnb using advanced statistical modeling: <b>R</b>"
 tags: [sample post, images, test]
 feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
 comments: true
@@ -22,9 +22,9 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
 
 ### How users can get started with the project?
 - Download all the files and put them in a folder
-- Change the dataset directories in Rmarkdown files before running the file.
-- [AirBnB Zero Inflation Poisson Model.Rmd](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/AirBnB%20Zero%20Inflation%20Poisson%20Model.Rmd) is the code for predicting number of reviews. 
-- [Final Multilevel.Rmd](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/Final%20Multilevel.Rmd) is the code for predicting quality of ratings. 
+- Change the dataset directories in Rmarkdown files before running them
+- [AirBnB Zero Inflation Poisson Model.Rmd](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/AirBnB%20Zero%20Inflation%20Poisson%20Model.Rmd) is the code for predicting number of reviews 
+- [Final Multilevel.Rmd](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/Final%20Multilevel.Rmd) is the code for predicting quality of ratings
 - The final report of our work in under [FinalReport-Airbnb.pdf](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf)
 
 <div markdown="0"><a href="https://github.com/gurungkshitij/airbnb-rating-analysis" class="btn btn-success">Source Code</a></div>
