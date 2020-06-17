@@ -7,9 +7,11 @@ comments: false
 ---
  <center> <strong><font size="+1"> Find me playing soccer, working out, singing, cutting hair, or cooking Nepalese special chicken tarkari. </font> </strong> </center>
 
-I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as I can. I look up to Cristiano Ronaldo (football player), his hardwork, determination, and passion. I also enjoy working out and staying in shape. I love talking about body builidng, powerlifting, diets, exercieses, sharing interesting ideas and learnig more about our bodies. 
+I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as my body supports: atleast 50 years old (outlier &#128521). I look up to Cristiano Ronaldo (football player), and am insipred by his hardwork, determination, and work ethic. I also enjoy working out and staying in shape. I love talking about diets, body builidng, powerlifting, various exercieses, sharing ideas and learnig more about our bodies. I also enjoy singing and hope to write and release my own song one day.
 
-I also enjoy ino and performing dances. I was involed in multiple culutral shows at St. Olaf College where I composed Nepali dances and performed sharing some of my culture. 
+Similarly, I like performing on stage. I grew up being part of many dance performances, solow song concerts, and other stage shows in my boarding school (Budhanilkantha School, Nepal). Even at St. Olaf College (Northfield, MN), I was involed in multiple culutral shows, where I composed and performed Nepali dances and sang songs in an attempt to share some of my culture. Talking about culture, you have try my special Nepali chicken terkari (curry) because I take pride in that &#128526. 
+
+Here are some of my performances and involvements that I was part of. 
 
 ### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
