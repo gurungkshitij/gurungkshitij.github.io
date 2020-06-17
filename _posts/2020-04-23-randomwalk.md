@@ -2,7 +2,7 @@
 layout: post
 title:  "Random-walk Project"
 date:   2020-04-23
-excerpt: "An attempt to study the nature of a random walk: Python"
+excerpt: "An attempt to study the nature of a random walk: <b>Python</b>"
 tag:
 - markdown 
 - syntax
