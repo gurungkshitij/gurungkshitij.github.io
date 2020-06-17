@@ -1,22 +1,26 @@
 ---
 layout: page
-title: Hobbies and Fun involvements
+title: Hobbies and Fun Involvements
 tags: [about, Jekyll, theme, moon, images]
 date: 2020-06-04
 comments: false
 ---
  <center> <strong><font size="+1"> Find me playing soccer, working out, singing, cutting hair, or cooking Nepalese special chicken tarkari. </font> </strong> </center>
 
-***Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)*** 
+I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as I can. I look up to Cristiano Ronaldo (football player), his hardwork, determination, and passion. I also enjoy working out and staying in shape. I love talking about body builidng, powerlifting, diets, exercieses, sharing interesting ideas and learnig more about our bodies. 
+
+I also enjoy ino and performing dances. I was involed in multiple culutral shows at St. Olaf College where I composed Nepali dances and performed sharing some of my culture. 
+
+### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College*** 
+### Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
-***Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)*** 
+### Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
 <iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***2 years transformational video of my health and fitness journey***
+### 2 years transformational video of my health and fitness journey
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2206826379355086%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 <figure class="third">
