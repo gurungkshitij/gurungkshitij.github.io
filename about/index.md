@@ -8,9 +8,9 @@ comments: false
 ---
 <hr />
 <strong> <center> I am Kshitij Gurung and welcome to my Website!</center></strong> 
-I am a motivated learner with a great passion for data science and analytics. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, Statistics and Data Science. I enjoy the process of torturing the data until it confesses informations that convey a compelling story. My intereste lies in intersecitn of data science and health care, sports & exercise, and econometrics. 
+I am a motivated learner with a great passion for data science and analytics. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, Statistics and Data Science. I enjoy working with data and producing information that convey a compelling story. My interests lie in the interseciton of data science and health care, sports & exercise, and econometrics. 
 
-Besides my professional work, I love speding time playing soccer, working outs (powerlifting), cooking, hair cutting, and Singnig. 
+Besides my professional work, I love speding time playing soccer, working out (powerlifting), cooking, hair cutting, and Singnig. 
 
 <center>
     <div class="btn-group">
