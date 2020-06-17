@@ -7,13 +7,14 @@ comments: false
 ---
  <center> <strong><font size="+1"> Find me playing soccer, working out, singing, cutting hair, or cooking Nepalese special chicken tarkari. </font> </strong> </center>
 
-I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as my body supports: atleast 50 years old (outlier &#128521). I look up to Cristiano Ronaldo (football player), and am insipred by his hardwork, determination, and work ethic. I also enjoy working out and staying in shape. I love talking about diets, body builidng, powerlifting, various exercieses, sharing ideas and learnig more about our bodies. I also enjoy singing and hope to write and release my own song one day.
+I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as my body supports: atleast 50 years old (outlier &#128521;). I look up to Cristiano Ronaldo (football player), and am insipred by his hardwork, determination, and work ethic. I also enjoy working out and staying in shape. I love talking about diets, body builidng, powerlifting, various exercieses, sharing ideas and learnig more about our bodies. I also enjoy singing and hope to write and release my own song one day.
 
-Similarly, I like performing on stage. I grew up being part of many dance performances, solow song concerts, and other stage shows in my boarding school (Budhanilkantha School, Nepal). Even at St. Olaf College (Northfield, MN), I was involed in multiple culutral shows, where I composed and performed Nepali dances and sang songs in an attempt to share some of my culture. Talking about culture, you have try my special Nepali chicken terkari (curry) because I take pride in that &#128526. 
+Similarly, I like performing on stage. I grew up being part of many dance performances, solo song concerts, and other stage shows in my boarding school (Budhanilkantha School, Nepal). Even at St. Olaf College (Northfield, MN), I was involed in multiple culutral shows, where I composed and performed Nepali dances and sang songs in an attempt to share some of my culture. Talking about culture, you have to try my special Nepali chicken tarkari (curry) because I take pride in that. &#128526; .
 
 Here are some of my performances and involvements that I was part of. 
 
 ### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
+<font size = '0.5'> "This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home." </font>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College
