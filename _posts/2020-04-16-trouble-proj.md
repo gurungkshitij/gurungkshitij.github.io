@@ -2,7 +2,7 @@
 layout: post
 title: Trouble Project
 date: 2020-04-16
-excerpt: "A simple dice game analysis: Python"
+excerpt: "A simple dice game analysis: <b>Python</b>"
 tag:
 - markdown 
 - mathjax
@@ -14,7 +14,7 @@ comments: true
 
 # Trouble Project
 
-In the game Trouble the goal is to move a bunch of markers from a starting point all the way to
+In the Trouble game the goal is to move a bunch of markers from a starting point all the way to
 the ending point. Ignoring some subtleties of the game, the basic move is very simple:
 - You roll a standard 6-sided die.
 - You move your marker the number of spaces equal to the value on the die.
