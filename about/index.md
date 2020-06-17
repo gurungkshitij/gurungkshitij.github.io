@@ -12,6 +12,7 @@ comments: false
 
 Besides my professional work, I love speding time playing soccer, working out (powerlifting), cooking, hair cutting, and Singnig. </center>
 
+<hr/>
 <center>
     <div class="btn-group">
         <a href="https://gurungkshitij.github.io//posts/" class="btn btn-success">Projects</a>
