@@ -6,7 +6,7 @@ date: 2020-06-04
 logo: '/assets/img/kg.jpg'
 comments: false
 ---
-<hr />
+<hr/>
 <strong> <center> I am Kshitij Gurung and welcome to my Website!</center></strong> 
 <center>I am a motivated learner with a great passion for data science and analytics. I recently graduated from St. Olaf College with a bachelor is Economics, Mathematics, Statistics and Data Science. I enjoy working with data and producing information that convey a compelling story. My interests lie in the interseciton of data science and health care, sports & exercise, and econometrics. 
 
