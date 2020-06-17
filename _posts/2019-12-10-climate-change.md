@@ -29,20 +29,19 @@ rise in greenhouse gases such as carbon dioxide gas and methane gas (CO<sub>2</s
 associations with change in land-temperatures, the size of glaciers, sea level, and change in forest percentage over time.
 
 ### We plan to achieve following things in this project:
-- Visualize the global rise in CO<sub>2</sub> and CH<sub>4</sub> emmission across time(1880-2010)by countries and region  
+- Visualize the global rise in CO<sub>2</sub> and CH<sub>4</sub> emmission across time (1880-2010)by countries and region  
   - Interactive scatter plots
   - Importance plots
 - Visualize the change in Land-temperature, Sea level, Glacier-Mass, and Forest Area over time (1880-2010)
 - Juxtapose the association of rise in green house gases (climate chage) and its consequence in sea level rise, land temperatire rise,
-decrease in glacier mass and forest area across the world
+decrease in glacier mass, and forest area across the world
 
 ### How users can get started with the project?
 - [Climate_Shiny.Rmd](https://github.com/gurungkshitij/climate_change/blob/master/Climate_Shiny.Rmd) is the main shinny app file
 - [Climaechange-datacleaning.Rmd](https://github.com/gurungkshitij/climate_change/blob/master/Climaechange-datacleaning.Rmd) is the 
 data cleaning code 
-- After you download all the files, change the directories of the datasets as you read in the csv files in Rmd code metioned above
-- Everythign should run smoothly. 
-- The final version of the published shinny app work in this [link](https://gurung.shinyapps.io/Climate_Shiny/)
+- Download all the files and change the directories of the datasets as you read in the csv files in the two Rmd files metioned above
+- First, run [Climaechange-datacleaning.Rmd](https://github.com/gurungkshitij/climate_change/blob/master/Climaechange-datacleaning.Rmd) and then [Climate_Shiny.Rmd](https://github.com/gurungkshitij/climate_change/blob/master/Climate_Shiny.Rmd)
 
 <center>
     <div class="btn-group">
