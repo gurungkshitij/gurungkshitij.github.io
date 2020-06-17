@@ -2,7 +2,7 @@
 layout: post
 title:  "Magic Square Project"
 date:   2020-05-10
-excerpt: "A project to find the magic square: python."
+excerpt: "A project to find the magic square: <b>Python</b>."
 tags: [sample post, readability, test, image, feature]
 feature: https://s3.amazonaws.com/images.penguinmagic.com/images/products/original/16578a-5cacf03e85a00.png
 comments: true
@@ -15,7 +15,7 @@ In general, there are n rows, n columns, and
 2 diagonals, for a total of **2n + 2** sums. Each sum is equal to **n(n<sup>2</sup>+1)/2**. 
 We are going to find the magic square by using stimulated annealing technique and study it's behaviour.
 
-***Our procedure to get the magic square:***
+### Our procedure to get the magic square:
 
 Use simulated annealing to find magic squares for at least n = 3 and n = 4. Here are some tips for setting up the problem:
 
@@ -31,7 +31,7 @@ Use simulated annealing to find magic squares for at least n = 3 and n = 4. Here
 
 We will be aiming to find magic square for 𝑛=3, and 𝑛=4, squares.
 
-***Our goal is to investigate the following questions:***
+### Our goal is to investigate the following questions:
 
 1) What values of sig2 and decFac did you find to work best? How about for  4∗4 ?
 
