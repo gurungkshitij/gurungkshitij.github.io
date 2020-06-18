@@ -3,11 +3,6 @@ layout: post
 title: Trouble Project
 date: 2020-04-16
 excerpt: "A simple dice game analysis: <b>Python</b>"
-tag:
-- markdown 
-- mathjax
-- example
-- test
 feature: https://image.winudf.com/v2/image/Y29tLk1hZ2ljSWRlYS5EaWNlMjg1X3NjcmVlbnNob3RzXzBfYTBjNzIxZmI/screen-0.jpg?fakeurl=1&type=.jpg
 comments: true
 ---
