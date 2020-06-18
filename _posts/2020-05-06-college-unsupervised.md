@@ -3,7 +3,6 @@ layout: post
 title:  "College Scoreboard: PCA and k-means clustering"
 date:   2020-05-06
 excerpt: "Unsupervised learning techniques to study private colleges around the U.S: <b>R</b>"
-tag: [sample post, code, highlighting]
 feature: https://dficlub.org/wp-content/uploads/2019/11/FR-DeBrusk-Machine-Learning-Bots-Risk-1200.jpg
 comments: true
 ---
