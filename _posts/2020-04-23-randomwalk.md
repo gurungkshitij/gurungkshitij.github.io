@@ -3,12 +3,6 @@ layout: post
 title:  "Random-walk Project"
 date:   2020-04-23
 excerpt: "An attempt to study the nature of a random walk: <b>Python</b>"
-tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
 feature: https://coderiff.com/wp/wp-content/uploads/2015/08/1.jpg
 comments: true
 ---
