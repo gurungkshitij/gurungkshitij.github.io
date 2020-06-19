@@ -2,7 +2,7 @@
 layout: post
 title: "Airbnb Rating Analysis"
 date: 2019-12-18
-excerpt: "Reviews and Rating analysis on Airbnb using advanced statistical modeling: <b>R</b>"
+excerpt: "Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b>"
 feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
 comments: true
 ---
