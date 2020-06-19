@@ -13,7 +13,7 @@ Similarly, I like performing on stage. I grew up being part of many dance perfor
 Here are some of my performances and involvements that I was part of. 
 
 ### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
-<font size = '0.5'> "This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home." </font>
+<font size = '0.5'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College
@@ -23,6 +23,8 @@ Here are some of my performances and involvements that I was part of.
 <iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2 years transformational video of my health and fitness journey
+<font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
+I encourage everyone to give it a try and experience the magic. Stay healthy, stay positive, and enjoy your beautiful Life to the Fullest! Trust me! </font>
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2206826379355086%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
