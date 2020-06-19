@@ -3,7 +3,7 @@ layout: post
 title: "Climate Change Visualization"
 date: 2019-12-18
 category: Data Science
-excerpt: " A data science visualizing project portraying a compeling story on Climate Change: <b>R</b>"
+excerpt: " A data science visualizing project portraying a compeling story on Climate Change: <b> Shiny App - R</b>"
 feature: https://scx2.b-cdn.net/gfx/news/2018/9-climatechange.jpg
 comments: true
 ---
