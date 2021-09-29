@@ -8,7 +8,7 @@ comments: false
 ---
 <hr/>
 
-I am a motivated learner with a genuine interest in data science and analytics. I throughly enjoy playing with data, discovering interesting patters, and explaining impactful stories that motivate data-driven decisions. My interests lie in the intersection of data science, health care, sports analytics, and fintech because I am Health & Fitness junkie who loves technology. Besides my professional work, you can find me speding time playing soccer, working out (powerlifting), making cover songs, hair cutting, fishing, or cooking. 
+I am a motivated fast-paced learner with a genuine interest in data science and analytics. I throughly enjoy playing with data, discovering interesting patters, and explaining impactful stories that motivate data-driven decisions. My interests lie in the intersection of data science, health care, sports analytics, and fintech because I am Health & Fitness junkie who loves technology. Besides my professional work, you can find me speding time playing soccer, working out (powerlifting), making cover songs, hair cutting, fishing, or cooking. 
 
 <hr/>
 <center>
