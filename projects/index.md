@@ -25,7 +25,7 @@ Here are some of my performances and involvements that I was part of.
 ### 2 years transformational video of my health and fitness journey
 <font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
 I encourage everyone to give it a try and experience the magic. Stay healthy, stay positive, and enjoy your beautiful Life to the Fullest! Trust me! </font>
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2206826379355086%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/100000832361732/videos/2206826379355086/" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 <figure class="half">
