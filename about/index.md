@@ -13,7 +13,7 @@ I am a motivated fast-paced learner with a genuine interest in data science and 
 <hr/>
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1HwtFZakjX33izlvDOSXFG6ogL1QqperS/view" class="btn btn-primary">Resume</a>
+        <a href="https://drive.google.com/file/d/1HwtFZakjX33izlvDOSXFG6ogL1QqperS/view?usp=sharing" class="btn btn-primary">Resume</a>
         <a href="https://gurungkshitij.github.io//posts/" class="btn btn-primary">Projects</a>
         <a href="https://gurungkshitij.github.io/projects/" class="btn btn-primary"> Hobbies</a>    
     </div>
