@@ -23,7 +23,7 @@ Hobby: Soccer (Playmaker), Fishing (Bass and Northern Pike), Singing, Health & F
 <hr/>
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1HwtFZakjX33izlvDOSXFG6ogL1QqperS/view?usp=sharing" class="btn btn-primary">Resume</a>
+        <a href="hhttps://drive.google.com/file/d/1_UImK4nxFH3U1x3XrW1rbRCWo0pdjTxD/view" class="btn btn-primary">Resume</a>
         <a href="https://gurungkshitij.github.io//posts/" class="btn btn-primary">Projects</a>
         <a href="https://gurungkshitij.github.io/projects/" class="btn btn-primary"> Hobbies</a>    
     </div>
