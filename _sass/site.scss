@@ -16,7 +16,8 @@ body {
 	font-family: $font1;
 	@include font-rem($doc-font-size);
 	color: $color_tuatara;
-	background-color: #0763e5; 
+	background-color: transparent;
+    background-image: url('{{ site.background }}');
 	background-position: center center;
 	background-attachment: fixed;
 	@media #{$small} {
