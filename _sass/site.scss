@@ -225,7 +225,9 @@ header .entry-meta {
 .container.animated.fadeIn {
   background-color: rgba(255, 255, 255, 0.8) !important; /* Adjust white wtih 70% opaciyy */
 }
-
+.row {
+  background-color: rgba(255, 255, 255, 0.5) !important;  /* Make the row's content No opacque */
+}
 .social-btn {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow */
 }
