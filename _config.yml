@@ -1,6 +1,6 @@
 site:               gurungkshitij.github.io
 title:              Kshitij Gurung 
-bio:                '"AI is the new Electricity. 100 Years ago, electricity transformed every industry. AI is brining an equally big transformation." Andrew Ng'
+bio:                '"AI is the new Electricity. 100 Years ago, electricity transformed every industry. AI is brining an equally big transformation." -Andrew Ng'
 description:        Welcome!
 reading_time:       true
 words_per_minute:   200
@@ -37,14 +37,17 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: kshitijgurung09@gmail.com
-#twitter:            username
-#facebook:           kshitij.gurung.56
-github-url:         gurungkshitij
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          kshitij-gurung-7866ab136
-#xing:              username
+github-url:         gurungkshitij
+email:             kshitijgurung09@gmail.com
+youtube:           '@kshitij.gurung'
 instagram:          kshitij.gurung
+#twitter:          username
+#facebook:         kshitij.gurung.56
+
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+
+#xing:              username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -52,7 +55,6 @@ instagram:          kshitij.gurung
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-youtube:           '@kshitij.gurung'
 #youtube-channel:   @kshitij.gurung
 #soundcloud:        username
 #weibo:             username
