@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -224,16 +224,15 @@ header .entry-meta {
 
 /*.container.animated.fadeIn {
   background-color: rgba(255, 255, 255, 0.2) !important; 
-}*/
+}
 .row {
   background-color: rgba(255, 255, 255, 0.8) !important;  /* Make the row's content No opacque */
 }
+*/
 .social-btn {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow */
 }
 .btn.zoombtn {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Add shadow */
 }
-.context {
-  background-color: rgba(255, 255, 255, 0.8) !important; /* White with 80% transparency */
-}
+
