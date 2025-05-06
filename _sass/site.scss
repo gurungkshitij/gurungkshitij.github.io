@@ -228,5 +228,5 @@ header .entry-meta {
 
 .row {
   opacity: 0.7 !important; /* Adjust the value as needed */
-  background-color: rgba(255, 255, 255, 0.7) !important; 
+  background-color: rgba(255, 255, 255, 0) !important;  /* Make the row's content No opacque */
 }
