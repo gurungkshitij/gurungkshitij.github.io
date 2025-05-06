@@ -1,6 +1,6 @@
 site:               gurungkshitij.github.io
 title:              Kshitij Gurung 
-bio:                'Minimal, one column jekyll theme.'
+bio:                '"AI is the new Electricity. 100 Years ago, electricity transformed every industry. AI is brining an equally big transformation." Andrew Ng'
 description:        "Testing!"
 reading_time:       true
 words_per_minute:   200
@@ -52,7 +52,7 @@ instagram:          kshitij.gurung
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           @kshitij.gurung
+youtube:           @kshitij.gurung
 #youtube-channel:   @kshitij.gurung
 #soundcloud:        username
 #weibo:             username
