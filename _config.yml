@@ -54,7 +54,7 @@ instagram:          kshitij.gurung
 #steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
+youtube-channel:   @kshitij.gurung
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
@@ -71,7 +71,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: #https://github.com
+    #base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
