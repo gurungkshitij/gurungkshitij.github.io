@@ -120,8 +120,10 @@ img {
 .img-circle {
 	border-radius: 50%;
 	border: 3px solid $white;
-	height: 180px; /* adjust height of the circle landing photo */
-	width: 180px;
+	height: 200px; /* adjust height of the circle landing photo */
+	width: 200px;
+    object-position: top; /* Position the top of the image at the top of the circle */
+
 }
 .author-photo {
     background-color: $white;
