@@ -223,10 +223,10 @@ header .entry-meta {
 /* KG: Make the container transparent */
 
 .container.animated.fadeIn {
-  opacity: 0.7 !important; /* Adjust this value as needed */
+  background-color: rgba(255, 255, 255, 0.7) !important; /* Adjust white wtih 70% opaciyy */
 }
 
 .row {
   opacity: 0.7 !important; /* Adjust the value as needed */
-  background-color: transparent !important; /* In case it has a white background */
+  background-color: rgba(255, 255, 255, 0.7) !important; 
 }
