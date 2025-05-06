@@ -1,7 +1,7 @@
 site:               gurungkshitij.github.io
 title:              Kshitij Gurung 
-bio: '<font size = 2> "The future is bright. Let us illuminate it with the power of new Electicity: Data & AI." - test </font> #"The future is bright. Let\'s illuminate it with the power of new Electicity: Data & AI."'
-description:        "Welcome!"
+bio:                'Minimal, one column jekyll theme.'
+description:        "Testing!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/kg.jpg'
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    #base_url: https://github.com
+    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
