@@ -11,28 +11,28 @@ Microsoft Certified Data Scientist, currently pursuing a part-time Masters in Co
  
 Half a decade of Data Consulting experience delivering enterprise-level Business Intelligence, ML Solutions, Analytics and Reporting, Data Engineering, and Database Adminstration (Azure, GCP, Python, SQL, Power BI). Proven ability to manage client relationships and deliver end-to-end data solutions from inception to completion. 
 
-- AI & ML Platforms: Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, AI Agents, MCP
-• ML Models: Supervised - Regression (Linear, Logistic, Regularized), Decision Tree, Random Forest, SVMs, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), Unsupervised - KNN, KMeans clustering, PCA
-• Deep Learning: CNNs, RNNs, Neural Network
-• NLP: LLMs, RAG, LAD, GPT, BERT, Perceptron, SVD, LSTM, Glove, Word2Vec (C-Bow, Skip-Gram)
+🤖🧠 AI & ML Platforms: Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, AI Agents, MCP
+- ML Models: Supervised - Regression (Linear, Logistic, Regularized), Decision Tree, Random Forest, SVMs, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), Unsupervised - KNN, KMeans clustering, PCA
+- Deep Learning: CNNs, RNNs, Neural Network
+- NLP: LLMs, RAG, LAD, GPT, BERT, Perceptron, SVD, LSTM, Glove, Word2Vec (C-Bow, Skip-Gram)
 
-- Data Engineering and Management: Azure Data Factory, Azure Synapse Analytics, Azure SQL DBs, SQL Server, MYSQL, PostgreSQL, Azure CosmosDB, Big Query, Logic Apps, Docker
+🔗⚙️ Data Engineering and Management: Azure Data Factory, Azure Synapse Analytics, Azure SQL DBs, SQL Server, MYSQL, PostgreSQL, Azure CosmosDB, Big Query, Logic Apps, Docker
 
-- Programing Languages: Python, SQL, R, DAX, C#, C++
-• Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
-• R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
+💻 Programing Languages: Python, SQL, R, DAX, C#, C++
+- Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
+- R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
 
-• Version Control and extra: GitHub, Azure DevOps, Microsoft 365, SharePoint, WordPress
+🐙🔄 Version Control and extra: GitHub, Azure DevOps, Microsoft 365, SharePoint, WordPress
 
-- Certifications: 
-• Microsoft Certified: Azure Data Scientist Associate
-• Microsoft Certified: Data Analyst Associate
-• Snowflake: BUILD 2023 LLM Bootcamp Badge
-• The Dale Carnegie Course
+🏅 Certifications: 
+- Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified: Data Analyst Associate
+- Snowflake: BUILD 2023 LLM Bootcamp Badge
+- The Dale Carnegie Course
 
-- Languages: Fluent in English, Nepali, Hindi
+🌍 Languages: Fluent in English, Nepali, Hindi
 
-- Hobby: Soccer (Playmaker), Singing (YouTuber), Fishing (Bass and Northern Pike), Health & Fitness 
+⚽ Hobby: Soccer (Playmaker), Singing (YouTuber), Fishing (Bass and Brook Trout), Health & Fitness 
  (Weight Lifting, Diet, Recovery), Hair Cutting (Fade), Drone Cameras
 
 <hr/>
