@@ -11,16 +11,18 @@ Microsoft Certified Data Scientist, currently pursuing a part-time Masters in Co
  
 Half a decade of Data Consulting experience delivering enterprise-level Business Intelligence, ML Solutions, Analytics and Reporting, Data Engineering, and Database Adminstration (Azure, GCP, Python, SQL, Power BI). Proven ability to manage client relationships and deliver end-to-end data solutions from inception to completion. 
 
-🎓 Georgia Institute of Technology: Masters of Science in Analytics (Computational Data Analytics - Data Science) 
-🎓 St. Olaf College: Bachelor of Arts in Mathematics & Economics | Concentration: Statistics & Data Science
-🎓 Budhanilkantha School: Cambridge International GCE A-Levels in Physics, Chemistry, Mathematics, Economics, English
+🎓 Education
+- Georgia Institute of Technology: Masters of Science in Analytics (Computational Data Analytics - Data Science) 
+- St. Olaf College: Bachelor of Arts in Mathematics & Economics | Concentration: Statistics & Data Science
+- Budhanilkantha School: Cambridge International GCE A-Levels in Physics, Chemistry, Mathematics, Economics, English
 
 🤖🧠 AI & ML Platforms: Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, AI Agents, MCP
 - ML Models: Supervised - Regression (Linear, Logistic, Regularized), Decision Tree, Random Forest, SVMs, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), Unsupervised - KNN, KMeans clustering, PCA
 - Deep Learning: CNNs, RNNs, Neural Network
 - NLP: LLMs, RAG, LAD, GPT, BERT, Perceptron, SVD, LSTM, Glove, Word2Vec (C-Bow, Skip-Gram)
 
-🔗⚙️ Data Engineering and Management: Azure Data Factory, Azure Synapse Analytics, Azure SQL DBs, SQL Server, MYSQL, PostgreSQL, Azure CosmosDB, Big Query, Logic Apps, Docker
+🔗⚙️ Data Engineering and Management: 
+- Azure Data Factory, Azure Synapse Analytics, Azure SQL DBs, SQL Server, MYSQL, PostgreSQL, Azure CosmosDB, Big Query, Logic Apps, Docker
 
 💻 Programing Languages: Python, SQL, R, DAX, C#, C++
 - Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
@@ -37,7 +39,7 @@ Half a decade of Data Consulting experience delivering enterprise-level Business
 🌍 Languages: Fluent in English, Nepali, Hindi
 
 ⚽ Hobby: Soccer (Playmaker), Singing (YouTuber), Fishing (Bass and Brook Trout), Health & Fitness 
- (Weight Lifting, Diet, Recovery), Hair Cutting (Fade), Drone Cameras
+ (Weight Lifting, Diet, Recovery), Hair Cutting (Fade), Drone Cinematography
 
 <hr/>
 <center>
