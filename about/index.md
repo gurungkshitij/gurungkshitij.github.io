@@ -13,7 +13,7 @@ Half a decade of Data Consulting experience delivering enterprise-level Business
 
 🎓 Education
 - Georgia Institute of Technology: Masters of Science in Analytics (Computational Data Analytics - Data Science)
-- St. Olaf College: Bachelor of Arts in Mathematics & Economics | Concentration: Statistics & Data Science
+- St. Olaf College: Bachelor of Arts in Mathematics & Economics with Concentration in Statistics & Data Science
 - Budhanilkantha School: Cambridge International GCE A-Levels in Physics, Chemistry, Mathematics, Economics, English
 
 🤖🧠 AI & ML Platforms: Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, AI Agents, MCP
