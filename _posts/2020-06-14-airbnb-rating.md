@@ -3,7 +3,7 @@ layout: post
 title: "🏠 Airbnb Rating Analysis 🔑"
 date: 2021-12-19
 excerpt: "⭐ Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b>"
-feature: https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg
+feature: https://a0.muscache.com/pictures/miso/Hosting-1008058413259627750/original/08ff61a2-4e58-4d13-97a1-e6c8547994d5.jpeg
 comments: true
 ---
 
@@ -26,7 +26,6 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
 - [Final Multilevel.Rmd](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/Final%20Multilevel.Rmd) is the code for predicting quality of ratings
 - The final report of our work in under [FinalReport-Airbnb.pdf](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf)
 
-<div markdown="0"><a href="https://github.com/gurungkshitij/airbnb-rating-analysis" class="btn btn-success">Source Code</a></div>
 <center>
     <div class="btn-group">
         <a href="https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf" class="btn btn-success">Report</a>
