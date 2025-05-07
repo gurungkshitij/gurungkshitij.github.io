@@ -4,20 +4,22 @@ title: Hobbies and Fun Involvements
 date: 2020-06-04
 comments: false
 ---
- <center> <strong><font size="+1"> Find me playing soccer, working out, singing, cutting hair, or cooking Nepalese special chicken tarkari. </font> </strong> </center>
+ <center> <strong><font size="+1"> 
+Lifelong football (soccer) fanatic (aiming for Ronaldo's longevity!), fitness commander always up for a health chat, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch, pitching a tent to soak in those night skies, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
+ &#128526; .
 
-I love playing and watching football (soccer). I have played football pretty much my whole life and will continue to do so as long as my body can withold: atleast 50 years old (outlier &#128521;). I look up to Cristiano Ronaldo (football player), and am insipred by his hardwork, determination, and work ethic. I also enjoy working out and staying in shape. I love talking and sharing ideas about diets, various exercises techniques, body builidng, powerlifting, and learning more about our bodies. I also enjoy singing and hope to write and release my own song one day.
+Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below:
 
-Similarly, I like performing on stage. I grew up being part of many dance performances, solo song concerts, and other stage shows in my boarding school (Budhanilkantha School, Nepal). Even at St. Olaf College (Northfield, MN), I was involed in multiple culutral shows, where I composed and performed Nepali dances and sang songs in an attempt to share some of my culture. Talking about culture, you have to try my special Nepali chicken tarkari (curry) because I take pride in that. &#128526; .
+### Secret singing superstar not so secrete part 1 😎
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here are some of my performances and involvements that I was part of. 
+### Not so secrete part 2 😅🤭
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
-<font size = '0.5'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
+<font size = '0.7'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ### Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
 <iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,6 +28,9 @@ Here are some of my performances and involvements that I was part of.
 <font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
 I encourage everyone to give it a try and experience the magic. Stay healthy, stay positive, and enjoy your beautiful Life to the Fullest! Trust me! </font>
 <iframe src="https://www.facebook.com/100000832361732/videos/2206826379355086/" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> 
+
+### Composing and performing a Nepali Dance during Annual International Night'19 at St. Olaf College
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkshitij.gurung.56%2Fvideos%2F2159293330775058%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
 <figure class="half">
