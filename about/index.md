@@ -46,7 +46,7 @@ Half a decade of Data Consulting experience delivering enterprise-level Business
 <hr/>
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1_UImK4nxFH3U1x3XrW1rbRCWo0pdjTxD/view" class="btn btn-primary">Resume</a>
+        <a href="https://drive.google.com/file/d/13M2lYmX9jASWxljycvsOVNBrg-K03Y7G/view?usp=sharing" class="btn btn-primary">Resume</a>
         <a href="https://gurungkshitij.github.io//posts/" class="btn btn-primary">Projects</a>
         <a href="https://gurungkshitij.github.io/projects/" class="btn btn-primary"> Hobbies</a>    
     </div>
