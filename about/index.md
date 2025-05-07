@@ -28,6 +28,8 @@ Half a decade of Data Consulting experience delivering enterprise-level Business
 - Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
 - R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
 
+📈📊 Data Visualization: Power BI, Tableau, D3.js, Excel, Google Data Studio, Graphana, New Relic
+
 🐙🔄 Version Control and extra: GitHub, Azure DevOps, Microsoft 365, SharePoint, WordPress
 
 🏅 Certifications: 
