@@ -4,16 +4,17 @@ title: "Ballon d'Or Winner and Nominees Prediction 2025 (Men's soccer)"
 date: 2025-04-29
 category: Data Science
 excerpt: "Harnessing Football (soccer) Expertise for Real-World Sports Analytics: Feature Engineering and Advanced Data Analytics for Classification and Ranking.<b> Python, Machine Learning, Classificaiton, Regression, FBref, SoccerData</b>"
-feature: https://pix11.com/wp-content/uploads/sites/25/2022/06/AP17205521082947.jpg?w=1280
+feature: https://talksport.com/wp-content/uploads/sites/5/2020/12/MESSI-RONALDO-BALLON-DOR-e1608042999677.jpg?strip=all&quality=100&w=1470&h=971&crop=1
 comments: true
 ---
 
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1hIIgI8ske6UuFZBjNoI5OnT4obP1KqtY/view" class="btn btn-success"> Report</a>
+        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing"> Report</a>
     </div>
 </center>
 <hr>
+
 # Introduction & Problem Definition
 
 The Ballon d’Or is the most prestigious award in football (soccer), presented annually by Groupe Amaury (French magazine
@@ -55,7 +56,7 @@ criteria:
 
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1hIIgI8ske6UuFZBjNoI5OnT4obP1KqtY/view" class="btn btn-success">Report</a>
+        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing" class="btn btn-success">Report</a>
         <a href="https://github.com/gurungkshitij/Ballon_dor_award" class="btn btn-success">Source Code Coming Soon</a>
 
     </div>
