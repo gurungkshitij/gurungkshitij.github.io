@@ -11,21 +11,22 @@ comments: false
          </font>
 </strong>
 <br>
-<h3> Proof I've been making a joyful noise (and occasionally some questionable moves) for years 👇: </h3>
+<br>
+<h3> Checkout some joyful noise and occasionally some questionable moves down below👇: </h3>
 
 ### 🎵 Secret singing superstar not so secrete part 1 😎 
-<iframe width="560" height="350" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="400" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🎵 Not so secrete part 2 😅🤭
-<iframe width="560" height="340" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="400" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 🎵 Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
-<font size = '0.7'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
+### 🎵 Sang a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College
+<font size = '0.9'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
 <iframe width="560" height="330" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-###🕺Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
-<iframe width="560" height="350" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 🕺Composed and performed a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
+<iframe width="560" height="420" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2 years transformational video of my health and fitness journey
 <font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
