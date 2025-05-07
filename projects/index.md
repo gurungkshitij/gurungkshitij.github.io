@@ -5,11 +5,11 @@ date: 2020-06-04
 comments: false
 ---
 
-
+<strong>
     <font size="+1"> 
         Lifelong football (soccer) fanatic (aiming for Ronaldo's longevity!), fitness commander always up for a health chat, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch, pitching a tent to soak in those night skies, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
          </font>
-
+</strong>
 <br>
 <h3> Proof I've been making a joyful noise (and occasionally some questionable moves) for years 👇: </h3>
 
