@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Ballon d'Or Winner and Nominees Prediction 2025 (Men's soccer)"
+title: "🏆 Ballon d'Or Winner and Nominees Prediction 2025 (Men's soccer) ⚽ "
 date: 2025-04-29
 category: Data Science
-excerpt: "Harnessing Football (soccer) Expertise for Real-World Sports Analytics: Feature Engineering and Advanced Data Analytics for Classification and Ranking.<b> Python, Machine Learning, Classificaiton, Regression, FBref, SoccerData</b>"
+excerpt: "Leveraging AI and Machine Learning with Football Expertise for Real-World Sports Analytics: <b> Feature Engineering, Machine Learning, Classificaiton (XGBoost + LightGBM), Regression and Ranking (PCA Regression),Python, FBref, SoccerData</b>"
 feature: https://e0.365dm.com/22/10/768x432/skysports-lionel-messi-cristiano-ronaldo_5934657.jpg?20221018103356
 comments: true
 ---
@@ -41,7 +41,7 @@ is to classify the 2025 Ballon d’Or top 30 nominees and predict the winner wit
 - Project Goal: Predict the 2025 Ballon d'Or winner and top 30 nominees.
 - Data Acquisition: Gathered player statistics and historical records from multiple football data platforms, including FBref.com, FIFA, UEFA, and France Football.(Our raw data has 11,360 players with 117 features. )
 - Data Scope: Analyzed player statistics from Europe’s top 5 leagues, World Cup, UEFA Champions League, Euro Cup and Copa America (2020-2024).
-- Data Preprocessing: Cleand and preprocessed the data by handling missing values, removing duplicates, and filtering out goalkeepers.
+- Data Preprocessing: Cleaned and preprocessed the data by handling missing values, removing duplicates, and filtering out goalkeepers.
 - Feature Engineering: Developed and normalize 117 player features, including passing, defensive, possession, and standard statistics, individual awards, team achievements, and social media reach; normalized key performance metrics per 90 minutes played and average seasonal playing time; combined statistics across tournaments using weighted strategies based on tournament prestige; and created percentage features, such as percentage of short pass completion and successful take-ons.
   - For example, if Lionel Messi played for PSG in tournaments such as Ligue1, Champions League, and World Cup during 2021-2022 season then we multipled the three rows with weights and summed them to form one row for 2021-2022 season. 'Playing Time_Min' and 'Playing Time_90s' were aggregated using sum across the tournaments rather than weighted sum because it preserves the actual playing time as the denominator for the rate statistics like ‘goals_per90min’, while weighted sums of other statistics capture the impact of tournament prestige on their overall output.
   - To avoid inflation by low-minute players for per_90min_played stats, we multiplied a player’s stats with the ratio of playing time and mean season playing time if they player played less minutes than season average playing time.
@@ -77,7 +77,7 @@ is to classify the 2025 Ballon d’Or top 30 nominees and predict the winner wit
 
 ### 2025 Top 10 Nominees Ranking and Feature Importance
 
-<figure class="full">
+<figure class="half">
     <a href='/assets/img/ballondor/2025top10.png'><img src='/assets/img/ballondor/2025top10.png'></a>
     <a href='/assets/img/ballondor/Ballondfeatureimp.png'><img src='/assets/img/ballondor/Ballondfeatureimp.png'></a>
 
