@@ -5,27 +5,27 @@ date: 2020-06-04
 comments: false
 ---
 
-<strong>
+
     <font size="+1"> 
         Lifelong football (soccer) fanatic (aiming for Ronaldo's longevity!), fitness commander always up for a health chat, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch, pitching a tent to soak in those night skies, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
          </font>
-</strong>
+
 <br>
-<h3> Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below: </h3>
+<h3> Proof I've been making a joyful noise (and occasionally some questionable moves) for years 👇: </h3>
 
-<h4> Secret singing superstar not so secrete part 1 😎 </h4>
-<iframe width="1440" height="620" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 🎵 Secret singing superstar not so secrete part 1 😎 
+<iframe width="560" height="350" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Not so secrete part 2 😅🤭
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 🎵 Not so secrete part 2 😅🤭
+<iframe width="560" height="340" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
+### 🎵 Singing a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College)
 <font size = '0.7'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="330" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
-<iframe width="1440" height="620" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+###🕺Another Composition and performace of a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
+<iframe width="560" height="350" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2 years transformational video of my health and fitness journey
 <font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
