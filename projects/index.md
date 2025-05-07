@@ -11,11 +11,10 @@ comments: false
          </font>
      </strong>
  </center>
+<br>
+<h2> Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below: </h2>
 
-<font size = '0.7'> Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below:
-</font>
-
-<h2> Secret singing superstar not so secrete part 1 😎 </h2>
+<h4> Secret singing superstar not so secrete part 1 😎 </h4>
 <iframe width="1440" height="620" src="https://www.youtube.com/watch?v=foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4> Not so secrete part 2 😅🤭 </h4>
