@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "🏠 Airbnb Rating Analysis 🔑"
-date: 2019-12-18
-excerpt: " Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b> ⭐"
-feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
+date: 2021-12-19
+excerpt: "⭐ Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b>"
+feature: https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg
 comments: true
 ---
 
@@ -32,11 +32,8 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
         <a href="https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf" class="btn btn-success">Report</a>
         <a href="https://github.com/gurungkshitij/airbnb-rating-analysis">Source Code</a>
     </div>
-
 </center>
 <hr>
-
-<hr />
 
 ### Property Price distribution, EDA
 <figure class="half">
