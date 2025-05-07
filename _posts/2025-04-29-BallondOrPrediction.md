@@ -4,14 +4,14 @@ title: "Ballon d'Or Winner and Nominees Prediction 2025 (Men's soccer)"
 date: 2025-04-29
 category: Data Science
 excerpt: "Harnessing Football (soccer) Expertise for Real-World Sports Analytics: Feature Engineering and Advanced Data Analytics for Classification and Ranking.<b> Python, Machine Learning, Classificaiton, Regression, FBref, SoccerData</b>"
-feature: https://talksport.com/wp-content/uploads/sites/5/2020/12/MESSI-RONALDO-BALLON-DOR-e1608042999677.jpg?strip=all&quality=100&w=1470&h=971&crop=1
+feature: https://e0.365dm.com/22/10/768x432/skysports-lionel-messi-cristiano-ronaldo_5934657.jpg?20221018103356
 comments: true
 ---
-
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing"> Report</a>
+        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing" class="btn btn-success">Report</a>
     </div>
+
 </center>
 <hr>
 
@@ -52,7 +52,7 @@ criteria:
 
 ### How users can get started with the project?
 
-- [Coming Soon](https://github.com/gurungkshitij/Ballon_dor_award) for all the Nuts and Bolts 🛠️⚙️ 🚀
+- [Coming Soon](https://github.com/gurungkshitij/Ballon_dor_award) for all the Nuts and Bolts 🛠️⚙️ 
 
 <center>
     <div class="btn-group">
