@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Airbnb Rating Analysis"
+title: "🏠 Airbnb Rating Analysis 🔑"
 date: 2019-12-18
-excerpt: "Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b>"
+excerpt: " Reviews and Rating analysis on Airbnb using <b>advanced statistical modeling: R</b> ⭐"
 feature: https://cdn2.lamag.com/wp-content/uploads/sites/6/2019/10/GettyImages-1158411199.jpg
 comments: true
 ---
@@ -27,10 +27,21 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
 - The final report of our work in under [FinalReport-Airbnb.pdf](https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf)
 
 <div markdown="0"><a href="https://github.com/gurungkshitij/airbnb-rating-analysis" class="btn btn-success">Source Code</a></div>
+<center>
+    <div class="btn-group">
+        <a href="https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf" class="btn btn-success">Report</a>
+        <a href="https://github.com/gurungkshitij/airbnb-rating-analysis">Source Code</a>
+    </div>
+
+</center>
+<hr>
 
 <hr />
-<figure>
-	<a href="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"><img src="https://samdatourism.com/wp-content/uploads/2019/10/airbnb-recommended-destinations.png"></a>
+
+### Property Price distribution, EDA
+<figure class="half">
+    <a href='/assets/img/anb1.png'><img src='/assets/img/abnb1'></a>
+    <a href='/assets/img/anb2.png'><img src='/assets/img/abnb2'></a>
 </figure>
 
 
