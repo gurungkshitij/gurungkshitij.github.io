@@ -12,7 +12,7 @@ Microsoft Certified Data Scientist, currently pursuing a part-time Masters in Co
 Half a decade of Data Consulting experience delivering enterprise-level Business Intelligence, ML Solutions, Analytics and Reporting, Data Engineering, and Database Adminstration (Azure, GCP, Python, SQL, Power BI). Proven ability to manage client relationships and deliver end-to-end data solutions from inception to completion. 
 
 🎓 Education
-- Georgia Institute of Technology: Masters of Science in Analytics (Computational Data Analytics - Data Science) 
+- Georgia Institute of Technology: Masters of Science in Analytics (Computational Data Analytics - Data Science)
 - St. Olaf College: Bachelor of Arts in Mathematics & Economics | Concentration: Statistics & Data Science
 - Budhanilkantha School: Cambridge International GCE A-Levels in Physics, Chemistry, Mathematics, Economics, English
 
