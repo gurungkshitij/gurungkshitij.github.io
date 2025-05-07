@@ -6,9 +6,9 @@ comments: false
 ---
  <center> <strong><font size="+1"> 
 Lifelong football (soccer) fanatic (aiming for Ronaldo's longevity!), fitness commander always up for a health chat, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch, pitching a tent to soak in those night skies, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
- &#128526; .
+ &#128526; . </font>
 
-Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below:
+<font size = '.7'> Proof I've been making a joyful noise (and occasionally some questionable moves) for years down below:</font>
 
 ### Secret singing superstar not so secrete part 1 😎
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
