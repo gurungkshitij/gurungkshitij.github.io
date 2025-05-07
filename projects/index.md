@@ -15,14 +15,14 @@ comments: false
 <h3> Checkout some joyful noise and occasionally some questionable moves down below👇: </h3>
 
 ### 🎵 Secret singing superstar not so secrete part 1 😎 
-<iframe width="560" height="400" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🎵 Not so secrete part 2 😅🤭
-<iframe width="560" height="400" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🎵 Sang a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College
-<font size = '0.9'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
-<iframe width="560" height="330" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<font size = '1.2'> This song is dedicated to all the Nepalese in gulf countries who are compelled to work in a harsh environment to make a living for their families back home. </font>
+<iframe width="560" height="420" src="https://www.youtube.com/embed/Sublqdi5XlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 🕺Composed and performed a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
