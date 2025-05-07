@@ -29,15 +29,15 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
 <center>
     <div class="btn-group">
         <a href="https://github.com/gurungkshitij/airbnb-rating-analysis/blob/master/FinalReport-Airbnb.pdf" class="btn btn-success">Report</a>
-        <a href="https://github.com/gurungkshitij/airbnb-rating-analysis">Source Code</a>
+        <a href="https://github.com/gurungkshitij/airbnb-rating-analysis" class="btn btn-info">Source Code</a>
     </div>
 </center>
 <hr>
 
 ### Property Price distribution, EDA
 <figure class="half">
-    <a href='/assets/img/anb1.png'><img src='/assets/img/abnb1'></a>
-    <a href='/assets/img/anb2.png'><img src='/assets/img/abnb2'></a>
+    <a href='/assets/img/abnb1.png'><img src='/assets/img/abnb1'></a>
+    <a href='/assets/img/abnb2.png'><img src='/assets/img/abnb2'></a>
 </figure>
 
 
