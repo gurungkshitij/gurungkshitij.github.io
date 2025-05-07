@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Hobbies and Fun Involvements
+title: ⚽ Hobbies and Fun Involvements 🎙️
 date: 2020-06-04
 comments: false
 ---
 
-<strong>
-    <font size="+1"> 
-        Lifelong football (soccer) fanatic (aiming for Ronaldo's longevity!), fitness commander always up for a health chat, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch, pitching a tent to soak in those night skies, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
-         </font>
-</strong>
+
+Lifelong football (soccer ⚽) enthusiast (aiming for Ronaldo's longevity!🧘), fitness commander always up for a health chat 💪, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch 🎣, pitching a tent to soak in those night skies 🏕️, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food 🍳, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 
+
 <br>
 <br>
 <h3> Checkout some joyful noise and occasionally some questionable moves down below👇: </h3>
@@ -28,7 +26,10 @@ comments: false
 ### 🕺Composed and performed a Nepali Dance during Diwali (South Asian cultural program '19 at St. Olaf College)
 <iframe width="560" height="420" src="https://www.youtube.com/embed/RcMIt4siaKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 2 years transformational video of my health and fitness journey
+### ⚽ Captained Kaal Bhairab (Team Black) during Annual Nepalese Momo Cup 🥟 Tournament 🏆
+<iframe width="560" height="420" src="https://www.youtube.com/embed/9ADUlfp_ZwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`` ### 2 years transformational video of my health and fitness journey
 <font size = '0.5'> Weightlifting and fitness in general have awarded me with surprising energy and positive attitude towards life over the past two years! I can't emphasis how magical, powerful, and transformational it is. It has taught me the meanings of Aim, Hard work, Failure, Practice, Persistence, and Victory! Basically the core foundation of Life and Success!
 I encourage everyone to give it a try and experience the magic. Stay healthy, stay positive, and enjoy your beautiful Life to the Fullest! Trust me! </font>
 <iframe src="https://www.facebook.com/100000832361732/videos/2206826379355086/" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> 
@@ -42,5 +43,5 @@ I encourage everyone to give it a try and experience the magic. Stay healthy, st
 	<a href="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/13507135_1087019981335737_4598956458583175717_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=XnJ0L6C0lLQAX-NO-2R&_nc_ht=scontent-msp1-1.xx&oh=4d10c174d906d485af6720bdfaee08e6&oe=5F08C6DB">
     <img src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.0-9/13507135_1087019981335737_4598956458583175717_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=XnJ0L6C0lLQAX-NO-2R&_nc_ht=scontent-msp1-1.xx&oh=4d10c174d906d485af6720bdfaee08e6&oe=5F08C6DB"></a>
 </figure>
-
+``
 
