@@ -30,8 +30,8 @@ Microsoft Certified Data Scientist, currently pursuing a part-time **Masters in 
 **🔗⚙️ Data Engineering and Management:** Azure Data Factory, Azure Synapse Analytics, Azure SQL DBs, SQL Server, MYSQL, PostgreSQL, Azure CosmosDB, Big Query, Logic Apps, Docker
 
 **💻 Programing Languages:** Python, SQL, R, DAX, C#, C++
-    - Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
-    - R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
+- Python Library: Numpy, Pandas, Scikit-learn, Tensorflow, Pytorch, Seaborn, Spacy, Matplotlib, Plotly
+- R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
 
 **📈📊 Data Visualization:** Power BI, Tableau, D3.js, Excel, Google Data Studio, Graphana, New Relic
 
