@@ -7,7 +7,7 @@ logo: '/assets/img/kg.jpg'
 comments: false
 ---
 <hr/>
-Microsoft Certified Data Scientist, currently pursuing a part-time ** Masters in Computational Data Analytics (AI/ML) at Georgia Institute of Technology **. A competent, result-driven AI/ML professional with a strong Work Ethic and Growth Mindset, who understands core business drivers, communicates fluently across diverse stakeholders, and applies a high-level strategic vision to achieve tangible ROI and business impact.
+Microsoft Certified Data Scientist, currently pursuing a part-time **Masters in Computational Data Analytics (AI/ML) at Georgia Institute of Technology** . A competent, result-driven AI/ML professional with a strong Work Ethic and Growth Mindset, who understands core business drivers, communicates fluently across diverse stakeholders, and applies a high-level strategic vision to achieve tangible ROI and business impact.
  
 Half a decade of Data Consulting experience delivering enterprise-level Business Intelligence, ML Solutions, Analytics and Reporting, Data Engineering, and Database Adminstration (Azure, GCP, Python, SQL, Power BI). Proven ability to manage client relationships and deliver end-to-end data solutions from inception to completion. 
 
@@ -37,7 +37,6 @@ Half a decade of Data Consulting experience delivering enterprise-level Business
     - R Library: tidyverse, Shiny, FNN, glmnet, randomForest, tree, LakeMetabolizer, lubridate
 
 <h4>📈📊 Data Visualization: </h4>
-- 
 - Power BI, Tableau, D3.js, Excel, Google Data Studio, Graphana, New Relic
 
 <h4>🐙🔄 Version Control and extra:</h4> 
