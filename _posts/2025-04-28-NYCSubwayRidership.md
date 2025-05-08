@@ -72,6 +72,7 @@ quantifies these relationships to predict subway ridership under varying weather
     </div>
 </center>
 <hr>
+<iframe width="560" height="420" src="https://www.youtube.com/embed/F1LI0oHyKxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### D3 visualizations
 <figure class="full">
