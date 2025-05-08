@@ -22,7 +22,7 @@ Microsoft Certified Data Scientist, currently pursuing a part-time **Masters in 
 - Snowflake: BUILD 2023 LLM Bootcamp Badge
 - The Dale Carnegie Course
 
-**🤖🧠 AI & ML Platforms:** Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, AI Agents, MCP
+**🤖🧠 AI & ML Engineering:** Azure Machine Learning, Azure Databricks, VertexAI, MLflow, MLOps, Foundation Models, RAG, AI Agents, MCP
 - ML Models: Supervised - Regression (Linear, Logistic, Regularized), Decision Tree, Random Forest, SVMs, Naive Bayes, Gradient Boosting (XGBoost, LightGBM), Unsupervised - KNN, KMeans clustering, PCA
 - Deep Learning: CNNs, RNNs, Neural Network
 - NLP: LLMs, RAG, LAD, GPT, BERT, Perceptron, SVD, LSTM, Glove, Word2Vec (C-Bow, Skip-Gram)
