@@ -5,15 +5,15 @@ date: 2020-06-04
 comments: false
 ---
 
-<font size = '3'> 
+<font size = '2.5'> 
 Lifelong football (soccer ⚽) enthusiast (aiming for Ronaldo's longevity!🧘), fitness commander always up for a health chat 💪, and a secret singing superstar in the making. When I'm not doing that, I'm on the go for the next big bass and brook trout catch 🎣, pitching a tent to soak in those night skies 🏕️, and capturing it all with cinematic drone shots. And my Nepali chicken tarkari? It's not just food 🍳, it's a cultural experience... that might involve uncontrollable happy noises. Just try it. 😉 </font>
-<br>
+
 <h3> Checkout some joyful noise and occasionally some questionable moves down below👇: </h3>
 
-🎵 Secret singing superstar not so secrete part 1 😎 
+🎵 Secret singing superstar, not so secrete Part 1 🤫
 <iframe width="560" height="420" src="https://www.youtube.com/embed/foS8Xal3_R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-🎵 Not so secrete part 2 😅🤭
+🎵 Not so secrete Part 2 🤭
 <iframe width="560" height="420" src="https://www.youtube.com/embed/cQWGb17NxXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 🎵 Sang a nepali song during Omkara '18 (Annual cultural festial) at St. Olaf College
