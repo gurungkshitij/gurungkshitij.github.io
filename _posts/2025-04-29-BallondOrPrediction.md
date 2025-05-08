@@ -68,7 +68,7 @@ is to classify the 2025 Ballon d’Or top 30 nominees and predict the winner wit
 </center>
 <hr>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?collapsed=1" height="551" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### 2025 Top 30 Nominees classification and Model Evaluation
 
