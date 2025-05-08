@@ -35,9 +35,10 @@ Keeping in mind the importance of Airbnb rating, I decided to make a prediction 
 <hr>
 
 ### Property Price distribution, EDA
-<figure class="full">
-    <a href='/assets/img/abnb1.png'><img src='/assets/img/abnb1'></a>
-    <a href='/assets/img/abnb2.png'><img src='/assets/img/abnb2'></a>
+
+<figure class="half">
+    <a href='/assets/img/abnb1.png'><img src='/assets/img/abnb1.png'></a>
+    <a href='/assets/img/abnb2.png'><img src='/assets/img/abnb2.png'></a>
 </figure>
 
 
