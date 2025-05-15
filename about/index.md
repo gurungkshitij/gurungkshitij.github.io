@@ -45,7 +45,7 @@ Microsoft Certified Data Scientist, currently pursuing a part-time **Masters in 
 <hr/>
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/13M2lYmX9jASWxljycvsOVNBrg-K03Y7G/view?usp=sharing" class="btn btn-primary">Resume</a>
+        <a href="https://drive.google.com/file/d/1SsblMOpJtLhGc9wGekIAc4cRvx-Iaurn/view?usp=sharing" class="btn btn-primary">Resume</a>
         <a href="https://gurungkshitij.github.io//posts/" class="btn btn-primary">Projects</a>
         <a href="https://gurungkshitij.github.io/projects/" class="btn btn-primary"> Hobbies</a>    
     </div>
