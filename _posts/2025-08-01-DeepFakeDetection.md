@@ -4,7 +4,7 @@ title: "🧠🤖🎭 Large Vision Models as In-The-Wild Deepfake Detectors"
 date: 2025-08-01
 category: Deep Learning, Computer Vision
 excerpt: "Leveraging Deep Learning and Computer Vision for Real-World Deepfake Detection: <b> Deep Learning, Computer Vision, Large Vision Models (ResNet-50, ViT-b32, and ConvNeXt-base)</b>"
-feature: '/assets/img/Deepfake/df.jpg'
+feature: '/assets/img/Deepfake/df2.jpg'
 comments: true
 ---
 
@@ -26,29 +26,17 @@ how costly and practical these deepfake detectors might be when deployed in real
 
 ### We have achieved the following in our project:
 
-- Project Goal: Predict the 2025 Ballon d'Or winner and top 30 nominees.
-- Data Acquisition: Gathered player statistics and historical records from multiple football data platforms, including FBref.com, FIFA, UEFA, and France Football.(Our raw data has 11,360 players with 117 features. )
-- Data Scope: Analyzed player statistics from Europe’s top 5 leagues, World Cup, UEFA Champions League, Euro Cup and Copa America (2020-2024).
+- Developed high-performing deepfake detectors: We adapted large, pretrained vision models (ConvNeXt, ViT-b32, and ResNet-50) to create deepfake detectors that are highly generalizable and effective on "in-the-wild" deepfakes.
 
-We’ve demonstrated how to finetune foundation vision models for in-the-wild deepfake detection. Specifically,
-ConvNeXt and Vision Transformer architectures were pretrained using contrastive language-image pairs (CLIP) and
-further finetuned on Deepfake-Eval-2024. We also show how cosine annealing and slower learning rates induced additional exploration and resulted in our most generalizable
-deepfake detectors. Our models achieve 81% accuracy on Deepfake-Eval-2024, a new record for open-source models.
-This exceeds the previous best open-source model (69% accuracy) and closely follows the leading commercial model
-(82% accuracy) as reported in the debut of Deepfake-Eval-2024. We’ve also highlighted some tradeoffs these open-
-source models offer in terms of size, complexity, and interpretability. These results highlight the potential of large
-open-source vision models with realistic deepfake datasets. We acknowledge the great progress Deepfake-Eval-2024
-makes as a new in-the-wild deepfake detection benchmark. At the same time, it is clear its small size and distribution
-are challenging. While the particular collection channels and labeling methodology used to curate this dataset make
-our benchmark results noteworthy, they may not necessarily represent how these deepfake detectors perform across all
-real-world settings.Furthermore, the field of artificial intelligence and deepfake generation techniques is moving quickly.
-It is critical to continue dedicating resources to developing newer and realistic benchmarks as well as new models to keep up with
-these rapid advancements. Deepfake detection will continue to matter for maintaining the public’s vigilance of disinformation, fraud, and harassment as well as trust in media
-authenticity.
+- Achieved state-of-the-art results for open-source models: Our best model achieved 81% accuracy on the challenging Deepfake-Eval-2024 benchmark, outperforming previous open-source models by 12% and nearly matching the performance of leading commercial detectors.
 
-### How to get started with the project?
+- Evaluated on a realistic benchmark: We conducted our analysis on Deepfake-Eval-2024, a new benchmark dataset of deepfakes and real images collected from social media, which provides a more realistic and diverse evaluation than traditional research datasets.
 
-- (https://github.com/Deepfake-Detection-KKO/deepfake-detection) for all the Nuts and Bolts 🛠️⚙️
+- Found that slow, gradual fine-tuning is key: Our experiments showed that fine-tuning models pretrained on CLIP, using a technique called cosine annealing with a slow learning rate, was crucial for achieving high accuracy and generalization.
+
+- Analyzed model tradeoffs: We explored the practical tradeoffs of using different foundation models, highlighting that the Vision Transformer (ViT-b32) offers a superior balance of high accuracy and faster inference speed, making it more suitable for time-sensitive applications than ConvNeXt.
+
+- Visualized how models make decisions: We used GradCAM visualizations to show that different models focus on different parts of an image when making a prediction, suggesting that combining multiple model architectures could lead to even better performance.
 
 <center>
     <div class="btn-group">
