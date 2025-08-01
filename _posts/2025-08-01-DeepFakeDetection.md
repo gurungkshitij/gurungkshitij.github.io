@@ -4,7 +4,7 @@ title: "🧠🤖🎭 Large Vision Models as In-The-Wild Deepfake Detectors"
 date: 2025-08-01
 category: Deep Learning, Computer Vision
 excerpt: "Leveraging Deep Learning and Computer Vision for Real-World Deepfake Detection: <b> Deep Learning, Computer Vision, Large Vision Models (ResNet-50, ViT-b32, and ConvNeXt-base)</b>"
-feature: /assets/img/Deepfake/df.jpg
+feature: '/assets/img/Deepfake/df.jpg'
 comments: true
 ---
 
@@ -60,16 +60,25 @@ authenticity.
 
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?collapsed=1" height="600" width="725" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 
-### GradCAM Visualizations (important regions in blue) and Hyperparameter Tuining
+### GradCAM Visualizations (important regions in blue)
 
-<figure class="">
+<figure class="full">
     <a href='/assets/img/Deepfake/GradCam.png'><img src='/assets/img/Deepfake/GradCam.png'></a>
+</figure>
+
+### Best Validation Accuracies from Hyperparameter Tuning
+<figure class="full">
     <a href='/assets/img/Deepfake/evalmetrics2.png.png'><img src='/assets/img/Deepfake/evalmetrics2.png'></a>
 </figure>
 
-### Evaluation metrics and Inference Testing
+### Test Accuracy and Computational Performance
 
-<figure class="half">
-    <a href='/assets/img/Deepfake/evalmetrics.png'><img src='/assets/img/Deepfake/evalmetrics.png'></a>
+<figure class="full">
     <a href='/assets/img/Deepfake/inferencetest.png'><img src='/assets/img/Deepfake/inferencetest.png'></a>
 </figure>
+
+### Performance on Test Data
+<figure class="full">
+    <a href='/assets/img/Deepfake/evalmetrics.png'><img src='/assets/img/Deepfake/evalmetrics.png'></a>
+</figure>
+
