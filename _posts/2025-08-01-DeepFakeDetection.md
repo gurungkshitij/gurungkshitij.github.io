@@ -10,7 +10,7 @@ comments: true
 
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing" class="btn btn-success">Report</a>
+        <a href="https://drive.google.com/file/d/13QLd0e1ZhJNi_14azIgymZv38Wvi5oc2/view?usp=sharing" class="btn btn-success">Report</a>
     </div>
 
 </center>
@@ -61,32 +61,32 @@ authenticity.
 
 ### How to get started with the project?
 
-- [Coming Soon](https://github.com/gurungkshitij/Ballon_dor_award) for all the Nuts and Bolts 🛠️⚙️
+- [Coming Soon](https://github.com/Deepfake-Detection-KKO/deepfake-detection) for all the Nuts and Bolts 🛠️⚙️
 
 <center>
     <div class="btn-group">
-        <a href="https://drive.google.com/file/d/1igaEFs5nHkyyLjSEiyOA6QbjsFDWskEw/view?usp=sharing" class="btn btn-success">Report</a>
-        <a href="https://github.com/gurungkshitij/Ballon_dor_award" class="btn btn-info">Source Code Coming Soon</a>
+        <a href="https://drive.google.com/file/d/13QLd0e1ZhJNi_14azIgymZv38Wvi5oc2/view?usp=sharing" class="btn btn-success">Report</a>
+        <a href="https://github.com/Deepfake-Detection-KKO/deepfake-detection" class="btn btn-info">Source Code</a>
 
     </div>
 
 </center>
 <hr>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?collapsed=1" height="600" width="725" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?collapsed=1" height="600" width="725" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 
 ### 2025 Top 30 Nominees classification and Model Evaluation
 
 <figure class="half">
-    <a href='/assets/img/ballondor/2025top30.png'><img src='/assets/img/ballondor/2025top30.png'></a>
-    <a href='/assets/img/ballondor/top30modelcomp.png'><img src='/assets/img/ballondor/top30modelcomp.png'></a>
+    <a href='/assets/img/Deepfake/GradCam.png'><img src='/assets/img/Deepfake/GradCam.png'></a>
+    <a href='/assets/img/Deepfake/evalmetrics2.png.png'><img src='/assets/img/Deepfake/evalmetrics2.png'></a>
 </figure>
 
 ### 2025 Top 10 Nominees Ranking and Feature Importance
 
 <figure class="half">
-    <a href='/assets/img/ballondor/2025top10.png'><img src='/assets/img/ballondor/2025top10.png'></a>
-    <a href='/assets/img/ballondor/Ballondfeatureimp.png'><img src='/assets/img/ballondor/Ballondfeatureimp.png'></a>
+    <a href='/assets/img/Deepfake/evalmetrics.png'><img src='/assets/img/Deepfake/evalmetrics.png'></a>
+    <a href='/assets/img/Deepfake/inferencetest.png'><img src='/assets/img/ballDeepfakeondor/inferencetest.png'></a>
 
 </figure>
 
