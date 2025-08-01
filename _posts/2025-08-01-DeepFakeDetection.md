@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Large Vision Models as In-The-Wild Deepfake Detectors"
+title: "🧠🤖🎭 Large Vision Models as In-The-Wild Deepfake Detectors"
 date: 2025-08-01
 category: Deep Learning, Computer Vision
 excerpt: "Leveraging Deep Learning and Computer Vision for Real-World Deepfake Detection: <b> Deep Learning, Computer Vision, Large Vision Models (ResNet-50, ViT-b32, and ConvNeXt-base)</b>"
-feature: https://e0.365dm.com/22/10/768x432/skysports-lionel-messi-cristiano-ronaldo_5934657.jpg?20221018103356
+feature: /assets/img/Deepfake/df.jpg
 comments: true
 ---
 
@@ -12,7 +12,6 @@ comments: true
     <div class="btn-group">
         <a href="https://drive.google.com/file/d/13QLd0e1ZhJNi_14azIgymZv38Wvi5oc2/view?usp=sharing" class="btn btn-success">Report</a>
     </div>
-
 </center>
 <hr>
 
@@ -30,18 +29,6 @@ how costly and practical these deepfake detectors might be when deployed in real
 - Project Goal: Predict the 2025 Ballon d'Or winner and top 30 nominees.
 - Data Acquisition: Gathered player statistics and historical records from multiple football data platforms, including FBref.com, FIFA, UEFA, and France Football.(Our raw data has 11,360 players with 117 features. )
 - Data Scope: Analyzed player statistics from Europe’s top 5 leagues, World Cup, UEFA Champions League, Euro Cup and Copa America (2020-2024).
-- Data Preprocessing: Cleaned and preprocessed the data by handling missing values, removing duplicates, and filtering out goalkeepers.
-- Feature Engineering: Developed and normalize 117 player features, including passing, defensive, possession, and standard statistics, individual awards, team achievements, and social media reach; normalized key performance metrics per 90 minutes played and average seasonal playing time; combined statistics across tournaments using weighted strategies based on tournament prestige; and created percentage features, such as percentage of short pass completion and successful take-ons.
-  - For example, if Lionel Messi played for PSG in tournaments such as Ligue1, Champions League, and World Cup during 2021-2022 season then we multipled the three rows with weights and summed them to form one row for 2021-2022 season. 'Playing Time_Min' and 'Playing Time_90s' were aggregated using sum across the tournaments rather than weighted sum because it preserves the actual playing time as the denominator for the rate statistics like ‘goals_per90min’, while weighted sums of other statistics capture the impact of tournament prestige on their overall output.
-  - To avoid inflation by low-minute players for per_90min_played stats, we multiplied a player’s stats with the ratio of playing time and mean season playing time if they player played less minutes than season average playing time.
-- Nominees Classification Model Development: Built a classification model (using stacked ensembles of Gradient Boosting, XGBoost, and LGBM) to predict Ballon d'Or top 30 nominees.
-  - Address Class Imbalance: Implemented SMOTE and class weighting techniques to handle the imbalance between nominees and non-nominees.
-- Feature Selection: Identifed the most influential features for nominee prediction, including availability, offensive productivity, tactical involvement, and team success.
-- Winner Ranking Model: Trained a regression model (PCA Regression) to rank the predicted nominees, focusing on the top 3.
-- Model Evaluation: Evaluated model performance using metrics like F1 score, ROC AUC, precision, recall, RMSE, and average precision at K=3.
-- 2025 Prediction: Applied the trained models to the 2024-2025 season data to predict the 2025 Ballon d'Or winner and nominees.
-- Result Analysis: Analyzed the model's predictions, compare them with expert opinions, and discuss the key factors influencing the 2025 Ballon d'Or outcome.
-- Address Limitations: Acknowledged and discussed limitations of the model, such as bias towards attacking players and the exclusion of the 2010-2020 period.
 
 We’ve demonstrated how to finetune foundation vision models for in-the-wild deepfake detection. Specifically,
 ConvNeXt and Vision Transformer architectures were pretrained using contrastive language-image pairs (CLIP) and
@@ -61,38 +48,28 @@ authenticity.
 
 ### How to get started with the project?
 
-- [Coming Soon](https://github.com/Deepfake-Detection-KKO/deepfake-detection) for all the Nuts and Bolts 🛠️⚙️
+- (https://github.com/Deepfake-Detection-KKO/deepfake-detection) for all the Nuts and Bolts 🛠️⚙️
 
 <center>
     <div class="btn-group">
         <a href="https://drive.google.com/file/d/13QLd0e1ZhJNi_14azIgymZv38Wvi5oc2/view?usp=sharing" class="btn btn-success">Report</a>
         <a href="https://github.com/Deepfake-Detection-KKO/deepfake-detection" class="btn btn-info">Source Code</a>
-
     </div>
-
 </center>
 <hr>
 
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324982715483590656?collapsed=1" height="600" width="725" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
 
-### 2025 Top 30 Nominees classification and Model Evaluation
+### GradCAM Visualizations (important regions in blue) and Hyperparameter Tuining
 
-<figure class="half">
+<figure class="">
     <a href='/assets/img/Deepfake/GradCam.png'><img src='/assets/img/Deepfake/GradCam.png'></a>
     <a href='/assets/img/Deepfake/evalmetrics2.png.png'><img src='/assets/img/Deepfake/evalmetrics2.png'></a>
 </figure>
 
-### 2025 Top 10 Nominees Ranking and Feature Importance
+### Evaluation metrics and Inference Testing
 
 <figure class="half">
     <a href='/assets/img/Deepfake/evalmetrics.png'><img src='/assets/img/Deepfake/evalmetrics.png'></a>
-    <a href='/assets/img/Deepfake/inferencetest.png'><img src='/assets/img/ballDeepfakeondor/inferencetest.png'></a>
-
-</figure>
-
-### EDA and Appendix
-
-<figure class="half">
-    <a href='/assets/img//ballondor/EDA.png'><img src='/assets/img//ballondor/EDA.png'></a>
-    <a href='/assets/img//ballondor/Appendixballon.png'><img src='/assets/img//ballondor/Appendixballon.png'></a>
+    <a href='/assets/img/Deepfake/inferencetest.png'><img src='/assets/img/Deepfake/inferencetest.png'></a>
 </figure>
